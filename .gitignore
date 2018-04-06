@@ -2,6 +2,8 @@
 .Rhistory
 .Rapp.history
 
+datafest2018.csv
+
 # Session Data files
 .RData
 

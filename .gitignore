@@ -1,6 +1,7 @@
 # History files
 .Rhistory
 .Rapp.history
+.DS_Store
 
 datafest2018.csv
 datafest2018.csv.zip

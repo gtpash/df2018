@@ -29,6 +29,7 @@ city.state.country <- allcity_counts %>% group_by(city,stateProvince,country) %>
 
 ##Make US DF
 cscUSA <- city.state.country %>% filter(country=="US")
+write.csv(cscUSA, file='./data/USAcity.csv')
 
 ##Make Canada DF
 cscUSA <- city.state.country %>% filter(country=="US")

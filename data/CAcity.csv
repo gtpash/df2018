@@ -1,0 +1,2440 @@
+"","city","stateProvince","country","ncity"
+"1","100 Mile House","BC","CA",105
+"2","Abbotsford","BC","CA",5529
+"3","Abbotsford","QC","CA",10
+"4","Aberdeen","SK","CA",27
+"5","Aberfoyle","ON","CA",65
+"6","Abitibi","QC","CA",5
+"7","Acadia Valley","AB","CA",11
+"8","Acheson","AB","CA",377
+"9","Acme","AB","CA",34
+"10","Acton","ON","CA",189
+"11","Acton Vale","QC","CA",156
+"12","Adams","SK","CA",2
+"13","Adams Lake","BC","CA",25
+"14","Adstock","QC","CA",42
+"15","Agassiz","BC","CA",211
+"16","Aguanish","QC","CA",20
+"17","Ahuntsic","QC","CA",10
+"18","Air Ronge","SK","CA",19
+"19","Airdrie","AB","CA",888
+"20","Ajax","ON","CA",2567
+"21","Alameda","SK","CA",7
+"22","Alberton","PE","CA",14
+"23","Aldergrove","BC","CA",540
+"24","Aldersyde","AB","CA",68
+"25","Alert Bay","BC","CA",32
+"26","Alexandria","ON","CA",94
+"27","Alfred","ON","CA",22
+"28","Algonquin","ON","CA",1
+"29","Algonquin Provincial Park","ON","CA",50
+"30","Allenford","ON","CA",21
+"31","Alliston","ON","CA",1227
+"32","Alma","QC","CA",266
+"33","Almonte","ON","CA",41
+"34","Alton","ON","CA",80
+"35","Altona","MB","CA",123
+"36","Alvinston","ON","CA",13
+"37","Ambassador","SK","CA",7
+"38","Amberley","ON","CA",1
+"39","Amherst","NS","CA",476
+"40","Amherstburg","ON","CA",213
+"41","Amherstview","ON","CA",27
+"42","Amos","QC","CA",101
+"43","Amqui","QC","CA",30
+"44","Amsterdam","SK","CA",1
+"45","Ancaster","ON","CA",1236
+"46","Ange-gardien","QC","CA",141
+"47","Angling Lake","ON","CA",7
+"48","Angus","ON","CA",24
+"49","Anjou","QC","CA",1808
+"50","Anmore","BC","CA",16
+"51","Annacis","BC","CA",147
+"52","Annapolis","NS","CA",11
+"53","Annapolis Royal","NS","CA",25
+"54","Antigonish","NS","CA",502
+"55","Anzac","AB","CA",21
+"56","Appin","ON","CA",8
+"57","Arborfield","SK","CA",63
+"58","Arborg","MB","CA",30
+"59","Arcadia","NS","CA",20
+"60","Arcola","SK","CA",30
+"61","Ardmore","AB","CA",86
+"62","Arichat","NS","CA",5
+"63","Ariss","ON","CA",3
+"64","Arkona","ON","CA",5
+"65","Armstrong","BC","CA",241
+"66","Arnprior","ON","CA",338
+"67","Arran","SK","CA",5
+"68","Arthabaska","QC","CA",10
+"69","Arthur","ON","CA",198
+"70","Asbestos","QC","CA",98
+"71","Ashburn","ON","CA",19
+"72","Ashcroft","BC","CA",158
+"73","Ashton","ON","CA",31
+"74","Assiniboia","SK","CA",28
+"75","Aston-jonction","QC","CA",12
+"76","Astra","ON","CA",2
+"77","Athabasca","AB","CA",395
+"78","Athens","ON","CA",25
+"79","Atholville","NB","CA",86
+"80","Atikameg","AB","CA",16
+"81","Atikokan","ON","CA",135
+"82","Atlantic","NS","CA",22
+"83","Atlin","BC","CA",2
+"84","Auclair","QC","CA",11
+"85","Aurora","ON","CA",2941
+"86","Austin","QC","CA",66
+"87","Auteuil","QC","CA",32
+"88","Avonlea","SK","CA",2
+"89","Avonport","NS","CA",5
+"90","Ayer's Cliff","QC","CA",37
+"91","Aylesford","NS","CA",64
+"92","Aylmer","ON","CA",234
+"93","Aylmer","QC","CA",48
+"94","Ayr","ON","CA",562
+"95","Azilda","ON","CA",11
+"96","Baddeck","NS","CA",32
+"97","Baden","ON","CA",103
+"98","Baie-Comeau","QC","CA",168
+"99","Baie-d'Hudson","QC","CA",6
+"100","Baie-d'urfe","QC","CA",207
+"101","Baie-du-febvre","QC","CA",40
+"102","Baie-James","QC","CA",43
+"103","Baie-Saint-Paul","QC","CA",64
+"104","Baie-sainte-anne","NB","CA",55
+"105","Baie-sainte-catherine","QC","CA",7
+"106","Baie-ste-anne","NB","CA",101
+"107","Baie Verte","NL","CA",34
+"108","Baker","BC","CA",43
+"109","Baker Creek","BC","CA",15
+"110","Baker Lake","NU","CA",69
+"111","Bala","ON","CA",28
+"112","Balcarres","SK","CA",84
+"113","Baldur","MB","CA",3
+"114","Baldwin","ON","CA",4
+"115","Ballantrae","ON","CA",28
+"116","Balmertown","ON","CA",38
+"117","Balmoral","MB","CA",57
+"118","Balzac","AB","CA",25
+"119","Bamfield","BC","CA",35
+"120","Bancroft","ON","CA",416
+"121","Banff","AB","CA",1551
+"122","Bangor","PE","CA",15
+"123","Barnet","BC","CA",25
+"124","Barrhaven","ON","CA",69
+"125","Barrhead","AB","CA",51
+"126","Barrie","ON","CA",8348
+"127","Barriere","BC","CA",26
+"128","Barrington","NS","CA",40
+"129","Barrington Passage","NS","CA",16
+"130","Barrys Bay","ON","CA",1
+"131","Bassano","AB","CA",2
+"132","Bath","ON","CA",6
+"133","Bathurst","NB","CA",347
+"134","Battleford","SK","CA",20
+"135","Bawlf","AB","CA",13
+"136","Bay d'Espoir","NL","CA",2
+"137","Bay Roberts","NL","CA",29
+"138","Bayshore","ON","CA",27
+"139","Bayview Village","ON","CA",28
+"140","Beaconsfield","QC","CA",164
+"141","Beamsville","ON","CA",246
+"142","Bear River","NS","CA",29
+"143","Beauce","QC","CA",67
+"144","Beauceville","QC","CA",73
+"145","Beauharnois","QC","CA",94
+"146","Beaumont","AB","CA",203
+"147","Beaumont","QC","CA",15
+"148","Beauport","QC","CA",160
+"149","Beaupre","QC","CA",12
+"150","Beausejour","MB","CA",7
+"151","Beauval","SK","CA",11
+"152","Beaver Bank","NS","CA",6
+"153","Beaverlodge","AB","CA",36
+"154","Beaverton","ON","CA",24
+"155","Bécancour","QC","CA",319
+"156","Bedford","NS","CA",707
+"157","Bedford","QC","CA",81
+"158","Beeton","ON","CA",13
+"159","Bella Bella","BC","CA",169
+"160","Bella Coola","BC","CA",120
+"161","Belle Plaine","SK","CA",27
+"162","Belle River","ON","CA",10
+"163","Belleville","ON","CA",2543
+"164","Bellevue","PE","CA",1
+"165","Bells Corners","ON","CA",74
+"166","Beloeil","QC","CA",792
+"167","Bengough","SK","CA",9
+"168","Bentley","AB","CA",21
+"169","Berthierville","QC","CA",104
+"170","Berwick","NS","CA",17
+"171","Best","ON","CA",26
+"172","Bethany","ON","CA",36
+"173","Bethesda","ON","CA",3
+"174","Bible Hill","NS","CA",19
+"175","Big River","NB","CA",10
+"176","Big River","SK","CA",3
+"177","Big Valley","AB","CA",30
+"178","Biggar","SK","CA",34
+"179","Binbrook","ON","CA",44
+"180","Birch Cove","AB","CA",9
+"181","Birch Hills","SK","CA",9
+"182","Birds Hill","MB","CA",35
+"183","Bishop's Falls","NL","CA",5
+"184","Bishops Falls","NL","CA",99
+"185","Black Creek","BC","CA",14
+"186","Blackfalds","AB","CA",400
+"187","Blackfoot","AB","CA",102
+"188","Blacks Harbour","NB","CA",25
+"189","Blainville","QC","CA",1465
+"190","Blairmore","AB","CA",61
+"191","Blaketown","NL","CA",22
+"192","Blenheim","ON","CA",95
+"193","Blind Bay","BC","CA",2
+"194","Blind River","ON","CA",49
+"195","Bloomfield","ON","CA",164
+"196","Bloomingdale","ON","CA",6
+"197","Blue Mountain","ON","CA",26
+"198","Blue Mountains","ON","CA",231
+"199","Blue River","BC","CA",44
+"200","Blueberry Mountain","AB","CA",7
+"201","Bluewater","ON","CA",12
+"202","Blyth","ON","CA",129
+"203","Bobcaygeon","ON","CA",8
+"204","Bois","QC","CA",7
+"205","Bois-des-Filion","QC","CA",157
+"206","Bois-Franc","QC","CA",11
+"207","Boisbriand","QC","CA",938
+"208","Boischatel","QC","CA",34
+"209","Boissevain","MB","CA",2
+"210","Bolton","ON","CA",1904
+"211","Bon Accord","AB","CA",9
+"212","Bonavista","NL","CA",13
+"213","Bond Head","ON","CA",53
+"214","Bonne Bay","NL","CA",24
+"215","Bonnyville","AB","CA",263
+"216","Borden","ON","CA",74
+"217","Borden-Carleton","PE","CA",128
+"218","Boston Bar","BC","CA",2
+"219","Bothwell","ON","CA",76
+"220","Botwood","NL","CA",27
+"221","Boucherville","QC","CA",3056
+"222","Bouctouche","NB","CA",23
+"223","Bourgeoys","QC","CA",79
+"224","Bow Island","AB","CA",15
+"225","Bowen Island","BC","CA",36
+"226","Bowmanville","ON","CA",1034
+"227","Boyle","AB","CA",34
+"228","Bracebridge","ON","CA",760
+"229","Bradford","ON","CA",728
+"230","Bradford West Gwillimbury","ON","CA",197
+"231","Bragg Creek","AB","CA",11
+"232","Brampton","ON","CA",22687
+"233","Brandon","MB","CA",1534
+"234","Brantford","ON","CA",4541
+"235","Brazeau County","AB","CA",10
+"236","Brechin","ON","CA",11
+"237","Bredenbury","SK","CA",1
+"238","Brentwood Bay","BC","CA",15
+"239","Breslau","ON","CA",22
+"240","Bridgenorth","ON","CA",35
+"241","Bridgetown","NS","CA",11
+"242","Bridgewater","NS","CA",637
+"243","Bright","ON","CA",13
+"244","Bright's Grove","ON","CA",47
+"245","Brighton","ON","CA",84
+"246","Brilliant","BC","CA",60
+"247","Broadview","SK","CA",18
+"248","Brock","SK","CA",1
+"249","Brockville","ON","CA",1144
+"250","Bromont","QC","CA",570
+"251","Brooklin","ON","CA",295
+"252","Brooks","AB","CA",362
+"253","Brookside","NS","CA",2
+"254","Brossard","QC","CA",2432
+"255","Brownsburg-Chatham","QC","CA",30
+"256","Bruce","ON","CA",35
+"257","Bruderheim","AB","CA",9
+"258","Brunswick","NB","CA",58
+"259","Brussels","ON","CA",20
+"260","Buckhorn","ON","CA",26
+"261","Buckingham","QC","CA",38
+"262","Buffalo Narrows","SK","CA",19
+"263","Buick","BC","CA",50
+"264","Bull Arm","NL","CA",3
+"265","Burford","ON","CA",12
+"266","Burin","NL","CA",8
+"267","Burk's Falls","ON","CA",12
+"268","Burlington","NL","CA",29
+"269","Burlington","ON","CA",12070
+"270","Burnaby","BC","CA",14495
+"271","Burnhamthorpe","ON","CA",5
+"272","Burns Lake","BC","CA",61
+"273","Burnside","NS","CA",3
+"274","Burton","ON","CA",7
+"275","Burtts Corner","NB","CA",30
+"276","Bury","QC","CA",38
+"277","By","QC","CA",8
+"278","Cabano","QC","CA",29
+"279","Cabri","SK","CA",5
+"280","Cache Creek","BC","CA",12
+"281","Calabogie","ON","CA",49
+"282","Calahoo","AB","CA",8
+"283","Caledon","ON","CA",910
+"284","Caledon East","ON","CA",45
+"285","Caledon Village","ON","CA",7
+"286","Caledonia","NS","CA",4
+"287","Caledonia","ON","CA",401
+"288","Calgary","AB","CA",57465
+"289","Calmar","AB","CA",49
+"290","Cambridge","NS","CA",113
+"291","Cambridge","ON","CA",8152
+"292","Cambridge Bay","NU","CA",66
+"293","Camlachie","ON","CA",3
+"294","Camp Artaban","BC","CA",70
+"295","Campbell","AB","CA",5
+"296","Campbell's Bay","QC","CA",4
+"297","Campbell River","BC","CA",1359
+"298","Campbellford","ON","CA",152
+"299","Campbellton","NB","CA",168
+"300","Campbellville","ON","CA",84
+"301","Camrose","AB","CA",561
+"302","Canal de la Rive Sud","QC","CA",1818
+"303","Canal Flats","BC","CA",64
+"304","Candiac","QC","CA",855
+"305","Canmore","AB","CA",604
+"306","Canning","NS","CA",51
+"307","Cannington","ON","CA",2
+"308","Canoe Lake","SK","CA",4
+"309","Canora","SK","CA",13
+"310","Canso","NS","CA",19
+"311","Canterbury","NB","CA",4
+"312","Canwood","SK","CA",26
+"313","Cap-de-la-Madeleine","QC","CA",81
+"314","Cap-Pelé","NB","CA",42
+"315","Cap-rouge","QC","CA",8
+"316","Cap-Saint-Ignace","QC","CA",9
+"317","Cap-Santé","QC","CA",4
+"318","Cape Breton","NS","CA",81
+"319","Cape Dorset","NU","CA",1
+"320","Caraquet","NB","CA",5
+"321","Carberry","MB","CA",17
+"322","Carbonear","NL","CA",109
+"323","Cardston","AB","CA",42
+"324","Carignan","QC","CA",28
+"325","Carleton","ON","CA",10
+"326","Carleton-sur-Mer","QC","CA",6
+"327","Carleton Heights","ON","CA",19
+"328","Carleton Place","ON","CA",351
+"329","Carlos","AB","CA",7
+"330","Carlyle","SK","CA",52
+"331","Carmacks","YT","CA",17
+"332","Carman","MB","CA",27
+"333","Carnduff","SK","CA",7
+"334","Caroline","AB","CA",1
+"335","Caronport","SK","CA",53
+"336","Carp","ON","CA",22
+"337","Carpenter","SK","CA",2
+"338","Carrot River","SK","CA",35
+"339","Carry","ON","CA",1
+"340","Carrying Place","ON","CA",29
+"341","Carseland","AB","CA",26
+"342","Carstairs","AB","CA",75
+"343","Cartierville","QC","CA",5
+"344","Cartwright","NL","CA",8
+"345","Casselman","ON","CA",77
+"346","Castlegar","BC","CA",527
+"347","Castor","AB","CA",18
+"348","Catharine","ON","CA",36
+"349","Cavan","ON","CA",101
+"350","Cawston","BC","CA",105
+"351","Cayuga","ON","CA",105
+"352","Cecil Lake","BC","CA",1
+"353","Central Saanich","BC","CA",24
+"354","Centralia","ON","CA",30
+"355","Chabanel","QC","CA",9
+"356","Chalk River","ON","CA",198
+"357","Chambly","QC","CA",620
+"358","Chambord","QC","CA",55
+"359","Chandler","QC","CA",19
+"360","Chapleau","ON","CA",128
+"361","Charing Cross","ON","CA",35
+"362","Charlemagne","QC","CA",70
+"363","Charlesbourg","QC","CA",86
+"364","Charleston","NL","CA",2
+"365","Charlevoix","QC","CA",8
+"366","Charlie Lake","BC","CA",39
+"367","Charlottetown","PE","CA",1533
+"368","Charny","QC","CA",44
+"369","Chase","BC","CA",44
+"370","Chateau-richer","QC","CA",52
+"371","Châteauguay","QC","CA",758
+"372","Chateh","AB","CA",2
+"373","Chatham-Kent","ON","CA",1761
+"374","Chatsworth","ON","CA",1
+"375","Chelmsford","ON","CA",84
+"376","Chelsea","QC","CA",55
+"377","Chemainus","BC","CA",85
+"378","Cheneville","QC","CA",39
+"379","Cherryville","BC","CA",57
+"380","Chertsey","QC","CA",3
+"381","Chesley","ON","CA",107
+"382","Chester","NS","CA",73
+"383","Chester Basin","NS","CA",25
+"384","Chestermere","AB","CA",171
+"385","Chesterville","ON","CA",3
+"386","Chesterville","QC","CA",9
+"387","Chéticamp","NS","CA",4
+"388","Chetwynd","BC","CA",171
+"389","Chevery","QC","CA",13
+"390","Chibougamau","QC","CA",95
+"391","Chicoutimi","QC","CA",703
+"392","Chilliwack","BC","CA",3116
+"393","Chinook","AB","CA",45
+"394","Chipman","NB","CA",10
+"395","Chisasibi","QC","CA",4
+"396","Chomedey","QC","CA",1
+"397","Christina Lake","BC","CA",32
+"398","Church Point","NS","CA",13
+"399","Churchbridge","SK","CA",25
+"400","Churchill","MB","CA",39
+"401","Clair","NB","CA",12
+"402","Clairmont","AB","CA",241
+"403","Clare","NS","CA",14
+"404","Clarence-Rockland","ON","CA",13
+"405","Clarence Creek","ON","CA",10
+"406","Clarenville","NL","CA",133
+"407","Claresholm","AB","CA",68
+"408","Clarington","ON","CA",56
+"409","Clark's Harbour","NS","CA",12
+"410","Clarksburg","ON","CA",49
+"411","Clear Creek","ON","CA",8
+"412","Clearwater","BC","CA",65
+"413","Clermont","QC","CA",23
+"414","Cleveland","QC","CA",10
+"415","Clifton","NB","CA",2
+"416","Clinton","ON","CA",41
+"417","Clive","AB","CA",1
+"418","Cloverdale","BC","CA",146
+"419","Cluny","AB","CA",18
+"420","Clyde","AB","CA",15
+"421","Coaldale","AB","CA",127
+"422","Coaticook","QC","CA",127
+"423","Cobalt","ON","CA",6
+"424","Cobble Hill","BC","CA",253
+"425","Cobden","ON","CA",81
+"426","Cobourg","ON","CA",938
+"427","Cocagne","NB","CA",19
+"428","Cochrane","AB","CA",643
+"429","Cochrane","ON","CA",54
+"430","Colborne","ON","CA",25
+"431","Colchester","NS","CA",57
+"432","Colchester","ON","CA",76
+"433","Cold Lake","AB","CA",761
+"434","Coldbrook","NS","CA",79
+"435","Coldstream","BC","CA",32
+"436","Coldstream","NB","CA",5
+"437","Coldwater","ON","CA",3
+"438","Cole Harbour","NS","CA",32
+"439","Coleman","AB","CA",34
+"440","Collingwood","ON","CA",1283
+"441","Colombier","QC","CA",13
+"442","Colwood","BC","CA",32
+"443","Comber","ON","CA",14
+"444","Come By Chance","NL","CA",28
+"445","Comox","BC","CA",405
+"446","Comox Valley","BC","CA",360
+"447","Compton","QC","CA",27
+"448","Conception Bay South","NL","CA",219
+"449","Concord","ON","CA",4712
+"450","Conklin","AB","CA",82
+"451","Consort","AB","CA",36
+"452","Contrecoeur","QC","CA",112
+"453","Cookshire-Eaton","QC","CA",38
+"454","Cookstown","ON","CA",134
+"455","Cookville","NS","CA",25
+"456","Coombs","BC","CA",2
+"457","Copenhagen","ON","CA",20
+"458","Copper Cliff","ON","CA",23
+"459","Coquitlam","BC","CA",4371
+"460","Corbeil","ON","CA",17
+"461","Corner Brook","NL","CA",384
+"462","Cornwall","ON","CA",1037
+"463","Cornwall","PE","CA",38
+"464","Cornwallis","NS","CA",16
+"465","Coronach","SK","CA",87
+"466","Coronation","AB","CA",104
+"467","Corunna","ON","CA",85
+"468","Côte-Nord-du-Golfe-du-Saint-Laurent","QC","CA",17
+"469","Côte-Saint-Luc","QC","CA",198
+"470","Côte-Saint-Pierre","QC","CA",9
+"471","Coteau-du-Lac","QC","CA",146
+"472","County of Grande Prairie No. 1","AB","CA",18
+"473","Courcelles","QC","CA",22
+"474","Court","SK","CA",38
+"475","Courtenay","BC","CA",1073
+"476","Courtice","ON","CA",480
+"477","Courtland","ON","CA",69
+"478","Cow Bay","NS","CA",29
+"479","Cowansville","QC","CA",188
+"480","Crabtree","QC","CA",115
+"481","Craigleith","ON","CA",3
+"482","Craik","SK","CA",13
+"483","Cranberry Portage","MB","CA",19
+"484","Cranbrook","BC","CA",651
+"485","Crapaud","PE","CA",6
+"486","Craven","SK","CA",9
+"487","Creelman","SK","CA",21
+"488","Creemore","ON","CA",11
+"489","Creighton","SK","CA",64
+"490","Cremona","AB","CA",36
+"491","Creston","BC","CA",312
+"492","Crofton","BC","CA",9
+"493","Cromer","MB","CA",61
+"494","Cross Lake","MB","CA",2
+"495","Crossfield","AB","CA",90
+"496","Crystal Beach","ON","CA",8
+"497","Cumberland","ON","CA",23
+"498","Curran","ON","CA",5
+"499","Cut Knife","SK","CA",9
+"500","Dallas","MB","CA",7
+"501","Darlington","ON","CA",38
+"502","Darlington","PE","CA",15
+"503","Dartmouth","NS","CA",3462
+"504","Dartmouth Crossing","NS","CA",88
+"505","Dashwood","ON","CA",8
+"506","Dauphin","MB","CA",227
+"507","Daveluyville","QC","CA",42
+"508","Davidson","SK","CA",60
+"509","Dawson","YT","CA",48
+"510","Dawson City","YT","CA",146
+"511","Dawson Creek","BC","CA",758
+"512","Day","ON","CA",18
+"513","De l'Île","QC","CA",34
+"514","De Winton","AB","CA",10
+"515","Dead Man's Flats","AB","CA",35
+"516","Dease Lake","BC","CA",6
+"517","Debert","NS","CA",90
+"518","Debolt","AB","CA",2
+"519","Deep River","ON","CA",9
+"520","Deer Lake","NL","CA",54
+"521","Deer Ridge","SK","CA",16
+"522","Degelis","QC","CA",11
+"523","Delaware","ON","CA",19
+"524","Delhi","ON","CA",169
+"525","Deloraine","MB","CA",8
+"526","Delson","QC","CA",157
+"527","Delta","BC","CA",5122
+"528","Deschambault","QC","CA",26
+"529","Deseronto","ON","CA",37
+"530","Destruction Bay","YT","CA",18
+"531","Detour Lake","ON","CA",17
+"532","Deux-Montagnes","QC","CA",77
+"533","Devon","AB","CA",5
+"534","Diamond City","AB","CA",1
+"535","Didsbury","AB","CA",29
+"536","Dieppe","NB","CA",1473
+"537","Digby","NS","CA",81
+"538","Dimsdale","AB","CA",22
+"539","Dinsmore","SK","CA",30
+"540","Disraeli","QC","CA",15
+"541","Dixie","ON","CA",38
+"542","Dolbeau-mistassini","QC","CA",172
+"543","Dollard-Des Ormeaux","QC","CA",487
+"544","Dominion","NS","CA",7
+"545","Don Mills","ON","CA",190
+"546","Donnacona","QC","CA",112
+"547","Doon","ON","CA",55
+"548","Dorchester","NB","CA",5
+"549","Dorchester","ON","CA",241
+"550","Dorintosh","SK","CA",1
+"551","Dorset","ON","CA",85
+"552","Dorval","QC","CA",1862
+"553","Douglas Lake","BC","CA",33
+"554","Douro-Dummer","ON","CA",23
+"555","Downsview","ON","CA",173
+"556","Doyle","ON","CA",1
+"557","Doyles","NL","CA",8
+"558","Draper","AB","CA",4
+"559","Drayton","ON","CA",30
+"560","Drayton Valley","AB","CA",325
+"561","Dresden","ON","CA",35
+"562","Drumheller","AB","CA",221
+"563","Drummond","NB","CA",6
+"564","Drummondville","QC","CA",3712
+"565","Dryden","ON","CA",260
+"566","Duagh","AB","CA",8
+"567","Dubreuilville","ON","CA",7
+"568","Duffield","AB","CA",45
+"569","Duncan","BC","CA",1101
+"570","Dunchurch","ON","CA",10
+"571","Dundalk","ON","CA",13
+"572","Dundas","ON","CA",587
+"573","Dunham","QC","CA",28
+"574","Dunmore","AB","CA",14
+"575","Dunnville","ON","CA",332
+"576","Dunsmuir","BC","CA",26
+"577","Durham","ON","CA",219
+"578","Durham-Sud","QC","CA",8
+"579","Durham Region","ON","CA",297
+"580","Dutton","ON","CA",20
+"581","Dwight","ON","CA",140
+"582","Eagle Lake","ON","CA",15
+"583","Eagle Ridge","AB","CA",24
+"584","Ear Falls","ON","CA",18
+"585","East Broughton","QC","CA",40
+"586","East Edmonton","AB","CA",40
+"587","East Gwillimbury","ON","CA",360
+"588","East Kelowna","BC","CA",3
+"589","East Mountain","NS","CA",17
+"590","East St. Paul","MB","CA",4
+"591","East York","ON","CA",541
+"592","Eastman","QC","CA",55
+"593","Eatonia","SK","CA",25
+"594","Eckville","AB","CA",46
+"595","Edam","SK","CA",2
+"596","Eden","MB","CA",37
+"597","Edmonton","AB","CA",46442
+"598","Edmundston","NB","CA",578
+"599","Edson","AB","CA",696
+"600","Edwardsville","NS","CA",17
+"601","Egan","QC","CA",9
+"602","Elgin","NB","CA",80
+"603","Elgin","ON","CA",2
+"604","Elie","MB","CA",130
+"605","Elk Lake","ON","CA",11
+"606","Elk Point","AB","CA",185
+"607","Elkford","BC","CA",111
+"608","Ellesmere","ON","CA",8
+"609","Elliot Lake","ON","CA",275
+"610","Elmira","ON","CA",356
+"611","Elmsdale","NS","CA",16
+"612","Elmvale","ON","CA",142
+"613","Elora","ON","CA",91
+"614","Elrose","SK","CA",21
+"615","Embro","ON","CA",22
+"616","Embrun","ON","CA",27
+"617","Emerald Lake","BC","CA",30
+"618","Emerald Park","SK","CA",33
+"619","Emma Lake","SK","CA",1
+"620","Emsdale","ON","CA",35
+"621","Enderby","BC","CA",70
+"622","Enfield","NS","CA",311
+"623","Engineer","BC","CA",195
+"624","Englehart","ON","CA",72
+"625","Ennismore","ON","CA",19
+"626","Enoch","AB","CA",139
+"627","Equity","AB","CA",6
+"628","Erickson","MB","CA",8
+"629","Erin","ON","CA",47
+"630","Erindale","ON","CA",5
+"631","Erskine","AB","CA",8
+"632","Espanola","ON","CA",79
+"633","Esquimalt","BC","CA",19
+"634","Essex","ON","CA",41
+"635","Esterhazy","SK","CA",118
+"636","Estevan","SK","CA",843
+"637","Eston","SK","CA",98
+"638","Etobicoke","ON","CA",10935
+"639","Evansburg","AB","CA",11
+"640","Everett","ON","CA",12
+"641","Exeter","ON","CA",176
+"642","Exshaw","AB","CA",39
+"643","Fairmont Hot Springs","BC","CA",53
+"644","Fairview","AB","CA",66
+"645","Fairview","QC","CA",48
+"646","Falardeau","QC","CA",8
+"647","Falcon Beach","MB","CA",5
+"648","Falher","AB","CA",41
+"649","Fall River","NS","CA",3
+"650","Farnham","QC","CA",79
+"651","Faro","YT","CA",114
+"652","Fenelon Falls","ON","CA",10
+"653","Fenwick","ON","CA",143
+"654","Fergus","ON","CA",421
+"655","Fermeuse","NL","CA",42
+"656","Fermont","QC","CA",402
+"657","Fernie","BC","CA",296
+"658","Feversham","ON","CA",12
+"659","Field","BC","CA",120
+"660","Field","UNKNOWN","CA",54
+"661","Fillmore","SK","CA",20
+"662","Fisher Branch","MB","CA",3
+"663","Flamborough","ON","CA",94
+"664","Fleming","SK","CA",24
+"665","Flesherton","ON","CA",111
+"666","Fletchers Lake","NS","CA",9
+"667","Flin Flon","MB","CA",108
+"668","Florence","ON","CA",39
+"669","Florenceville","NB","CA",133
+"670","Foam Lake","SK","CA",91
+"671","Fogo","NL","CA",15
+"672","Fond Du Lac","SK","CA",9
+"673","Fonthill","ON","CA",84
+"674","Foremost","AB","CA",15
+"675","Forest","ON","CA",20
+"676","Forget","SK","CA",16
+"677","Formosa","ON","CA",3
+"678","Fort-coulonge","QC","CA",13
+"679","Fort Albany","ON","CA",3
+"680","Fort Chipewyan","AB","CA",32
+"681","Fort Erie","ON","CA",604
+"682","Fort Frances","ON","CA",562
+"683","Fort Langley","BC","CA",23
+"684","Fort Mackay","AB","CA",135
+"685","Fort Macleod","AB","CA",58
+"686","Fort McMurray","AB","CA",4851
+"687","Fort McPherson","NT","CA",2
+"688","Fort Nelson","BC","CA",22
+"689","Fort Providence","NT","CA",14
+"690","Fort Qu'Appelle","SK","CA",86
+"691","Fort Resolution","NT","CA",2
+"692","Fort Saskatchewan","AB","CA",835
+"693","Fort Simpson","NT","CA",7
+"694","Fort Smith","NT","CA",35
+"695","Fort St James","BC","CA",88
+"696","Fort St. John","BC","CA",3152
+"697","Fort Steele","BC","CA",84
+"698","Fort Vermilion","AB","CA",25
+"699","Forteau","NL","CA",41
+"700","Fortune","NL","CA",3
+"701","Fox Creek","AB","CA",77
+"702","Fox Lake","MB","CA",64
+"703","Foxtrap","NL","CA",7
+"704","Franklin","QC","CA",40
+"705","Fraser Valley Regional District","BC","CA",287
+"706","Frederick","ON","CA",1
+"707","Fredericton","NB","CA",2419
+"708","Frontenac","ON","CA",33
+"709","Frontier","SK","CA",1
+"710","Gabriola","BC","CA",1
+"711","Gagetown","NB","CA",19
+"712","Gainsborough","SK","CA",30
+"713","Gananoque","ON","CA",51
+"714","Gander","NL","CA",415
+"715","Garden Bay","BC","CA",12
+"716","Garden Hill","MB","CA",2
+"717","Garson","ON","CA",23
+"718","Gaspé","QC","CA",98
+"719","Gatineau","ON","CA",52
+"720","Gatineau","QC","CA",4273
+"721","Genesee","AB","CA",17
+"722","Georgetown","ON","CA",1338
+"723","Georgian Bay","ON","CA",28
+"724","Georgina","ON","CA",126
+"725","Geraldton","ON","CA",8
+"726","Gibbons","AB","CA",42
+"727","Gibsons","BC","CA",162
+"728","Gilbert Plains","MB","CA",9
+"729","Gillam","MB","CA",92
+"730","Gillies Bay","BC","CA",16
+"731","Gimli","MB","CA",103
+"732","Glace Bay","NS","CA",48
+"733","Glaslyn","SK","CA",8
+"734","Glen","ON","CA",7
+"735","Glencoe","NB","CA",3
+"736","Glencoe","ON","CA",1
+"737","Gloucester","ON","CA",320
+"738","Goderich","ON","CA",499
+"739","Godfrey","ON","CA",6
+"740","Godmanchester","QC","CA",3
+"741","Gold Bridge","BC","CA",26
+"742","Gold River","BC","CA",19
+"743","Golden","BC","CA",446
+"744","Golden Horseshoe","ON","CA",13
+"745","Goodsoil","SK","CA",17
+"746","Goose Bay","NL","CA",205
+"747","Gore Bay","ON","CA",68
+"748","Gormley","ON","CA",192
+"749","Gracefield","QC","CA",15
+"750","Grafton","NB","CA",18
+"751","Grafton","ON","CA",45
+"752","Granby","QC","CA",2082
+"753","Grand-mere","QC","CA",27
+"754","Grand-saint-esprit","QC","CA",8
+"755","Grand-Sault","NB","CA",43
+"756","Grand Bank","NL","CA",18
+"757","Grand Bay-Westfield","NB","CA",1
+"758","Grand Bend","ON","CA",190
+"759","Grand Falls","NB","CA",169
+"760","Grand Falls","NL","CA",3
+"761","Grand Falls-Windsor","NL","CA",257
+"762","Grand Forks","BC","CA",53
+"763","Grand Manan","NB","CA",29
+"764","Grand Marais","MB","CA",10
+"765","Grand Rapids","MB","CA",1
+"766","Grand Valley","ON","CA",13
+"767","Grande-digue","NB","CA",3
+"768","Grande Cache","AB","CA",243
+"769","Grande Prairie","AB","CA",6307
+"770","Grandview","MB","CA",18
+"771","Grassie","ON","CA",16
+"772","Grassland","AB","CA",20
+"773","Gravelbourg","SK","CA",20
+"774","Gravenhurst","ON","CA",348
+"775","Greater Napanee","ON","CA",454
+"776","Greater Sudbury","ON","CA",5822
+"777","Greater Toronto Area","ON","CA",8912
+"778","Greely","ON","CA",64
+"779","Green's Harbour","NL","CA",56
+"780","Greenfield Park","QC","CA",203
+"781","Greenwood","BC","CA",29
+"782","Greenwood","NS","CA",37
+"783","Grenville","QC","CA",7
+"784","Grenville-sur-la-rouge","QC","CA",39
+"785","Gretna","MB","CA",9
+"786","Grimsby","ON","CA",803
+"787","Grimshaw","AB","CA",57
+"788","Grise Fiord","NU","CA",15
+"789","Gronlid","SK","CA",1
+"790","Gross","ON","CA",50
+"791","Grosse Isle","MB","CA",5
+"792","Guelph","ON","CA",9776
+"793","Guelph/Eramosa","ON","CA",94
+"794","Guildford","BC","CA",40
+"795","Gull Lake","SK","CA",95
+"796","Guy","AB","CA",7
+"797","Guysborough","NS","CA",29
+"798","Hacketts Cove","NS","CA",1
+"799","Hadashville","MB","CA",30
+"800","Hafford","SK","CA",15
+"801","Hagensborg","BC","CA",24
+"802","Hagersville","ON","CA",59
+"803","Haileybury","ON","CA",8
+"804","Haines Junction","YT","CA",25
+"805","Halbrite","SK","CA",13
+"806","Haldimand County","ON","CA",41
+"807","Haliburton","ON","CA",216
+"808","Halifax","NS","CA",11122
+"809","Halifax","ON","CA",34
+"810","Halifax Regional Municipality","NS","CA",51
+"811","Hall Beach","NU","CA",1
+"812","Halton","ON","CA",319
+"813","Halton Hills","ON","CA",492
+"814","Hamilton","ON","CA",14052
+"815","Hamiota","MB","CA",19
+"816","Hammond","ON","CA",20
+"817","Hammonds Plains","NS","CA",219
+"818","Hampshire","PE","CA",43
+"819","Hampstead","QC","CA",45
+"820","Hampton","NB","CA",63
+"821","Haney","BC","CA",1
+"822","Hanmer","ON","CA",10
+"823","Hanna","AB","CA",204
+"824","Hannon","ON","CA",32
+"825","Hanover","ON","CA",197
+"826","Hantsport","NS","CA",39
+"827","Hanwell","NB","CA",28
+"828","Happy Valley-Goose Bay","NL","CA",157
+"829","Harbour Breton","NL","CA",1
+"830","Hardisty","AB","CA",34
+"831","Harrison Hot Springs","BC","CA",30
+"832","Harriston","ON","CA",17
+"833","Harrow","ON","CA",135
+"834","Harrowby","MB","CA",70
+"835","Hartland","NB","CA",177
+"836","Hartney","MB","CA",84
+"837","Harwood","ON","CA",33
+"838","Hatley","QC","CA",58
+"839","Havelock","NB","CA",21
+"840","Hawke's Bay","NL","CA",2
+"841","Hawkesbury","ON","CA",393
+"842","Hay River","NT","CA",224
+"843","Haywood","MB","CA",36
+"844","Hazelton","BC","CA",10
+"845","Hazelton","NB","CA",60
+"846","Head","ON","CA",44
+"847","Headingley","MB","CA",244
+"848","Headquarters","BC","CA",50
+"849","Hearst","ON","CA",77
+"850","Hebertville-station","QC","CA",12
+"851","Hemmingford","QC","CA",15
+"852","Henday","AB","CA",5
+"853","Hensall","ON","CA",5
+"854","Hepworth","ON","CA",1
+"855","Heriot Bay","BC","CA",7
+"856","Herring Neck","NL","CA",18
+"857","High Level","AB","CA",207
+"858","High Prairie","AB","CA",245
+"859","High River","AB","CA",300
+"860","Highland Park","AB","CA",1
+"861","Hill","ON","CA",3
+"862","Hillsburgh","ON","CA",3
+"863","Hines Creek","AB","CA",1
+"864","Hinton","AB","CA",706
+"865","Holberg","BC","CA",19
+"866","Holland Centre","ON","CA",13
+"867","Holland Landing","ON","CA",127
+"868","Holyrood","NL","CA",13
+"869","Home Based","UNKNOWN","CA",32
+"870","Honey Harbour","ON","CA",44
+"871","Honfleur","QC","CA",40
+"872","Hope","BC","CA",121
+"873","Hope Bay","NU","CA",60
+"874","Hopedale","NL","CA",49
+"875","Hopewell Hill","NB","CA",24
+"876","Horizon","SK","CA",5
+"877","Hornby","ON","CA",55
+"878","Hornepayne","ON","CA",22
+"879","Houston","BC","CA",259
+"880","Howden","MB","CA",30
+"881","Howick","QC","CA",16
+"882","Howie Center","NS","CA",1
+"883","Hudson","QC","CA",46
+"884","Hudson's Hope","BC","CA",25
+"885","Hudson Bay","SK","CA",1
+"886","Hull","QC","CA",260
+"887","Humber","ON","CA",9
+"888","Humboldt","SK","CA",313
+"889","Hunter River","PE","CA",10
+"890","Huntingdon","QC","CA",58
+"891","Huntsville","ON","CA",703
+"892","Huron","ON","CA",21
+"893","Huron East","ON","CA",27
+"894","Huron Park","ON","CA",24
+"895","Hyde Park","ON","CA",30
+"896","Igloolik","NU","CA",6
+"897","Ignace","ON","CA",13
+"898","Ingersoll","ON","CA",921
+"899","Ingleside","ON","CA",30
+"900","Ingonish","NS","CA",11
+"901","Innerkip","ON","CA",6
+"902","Innisfail","AB","CA",104
+"903","Innisfil","ON","CA",875
+"904","Innisfil Heights","ON","CA",6
+"905","Inukjuak","QC","CA",1
+"906","Inuvik","NT","CA",111
+"907","Invermere","BC","CA",257
+"908","Inverness","NS","CA",85
+"909","Iqaluit","NU","CA",659
+"910","Irishtown","NB","CA",33
+"911","Iroquois","ON","CA",6
+"912","Iroquois Falls","ON","CA",89
+"913","Irricana","AB","CA",96
+"914","Island View","NB","CA",16
+"915","Isle-Dieu","QC","CA",55
+"916","Ituna","SK","CA",4
+"917","Jacksonville","NB","CA",121
+"918","Jacques","ON","CA",10
+"919","Jarvis","ON","CA",11
+"920","Jasper","AB","CA",584
+"921","Java","SK","CA",63
+"922","Jean","ON","CA",44
+"923","Joliette","QC","CA",1299
+"924","Jonquière","QC","CA",236
+"925","Jordan","ON","CA",20
+"926","Jordan Station","ON","CA",149
+"927","Kahnawake","QC","CA",9
+"928","Kakabeka Falls","ON","CA",6
+"929","Kaladar","ON","CA",15
+"930","Kaleden","BC","CA",51
+"931","Kamloops","BC","CA",4154
+"932","Kamouraska","QC","CA",23
+"933","Kamsack","SK","CA",49
+"934","Kananaskis","AB","CA",31
+"935","Kananaskis Village","AB","CA",162
+"936","Kanata","ON","CA",1840
+"937","Kapuskasing","ON","CA",195
+"938","Kashechewan","ON","CA",5
+"939","Kawartha Lakes","ON","CA",167
+"940","Keho Lake","AB","CA",8
+"941","Kelowna","BC","CA",7174
+"942","Kelvington","SK","CA",17
+"943","Kemano","BC","CA",10
+"944","Kemptville","ON","CA",399
+"945","Kenaston","SK","CA",2
+"946","Kenilworth","ON","CA",65
+"947","Kennedy","SK","CA",6
+"948","Kenora","ON","CA",260
+"949","Kensington","PE","CA",20
+"950","Kent Bridge","ON","CA",39
+"951","Kentville","NS","CA",239
+"952","Keremeos","BC","CA",60
+"953","Kerrisdale","BC","CA",33
+"954","Keswick","ON","CA",280
+"955","Kettle Point","ON","CA",44
+"956","Killam","AB","CA",2
+"957","Killarney","MB","CA",63
+"958","Kilworthy","ON","CA",87
+"959","Kimberley","BC","CA",78
+"960","Kincaid","SK","CA",30
+"961","Kincardine","NB","CA",22
+"962","Kincardine","ON","CA",433
+"963","Kindersley","SK","CA",308
+"964","King","ON","CA",60
+"965","King City","ON","CA",268
+"966","Kings","NS","CA",62
+"967","Kingsey Falls","QC","CA",176
+"968","Kingston","NS","CA",65
+"969","Kingston","ON","CA",5388
+"970","Kingsville","ON","CA",626
+"971","Kinistino","SK","CA",18
+"972","Kinkora","PE","CA",13
+"973","Kipling","SK","CA",149
+"974","Kirkland","NB","CA",4
+"975","Kirkland","QC","CA",792
+"976","Kirkland Lake","ON","CA",203
+"977","Kirriemuir","AB","CA",1
+"978","Kitchener","ON","CA",9225
+"979","Kitchener-Waterloo","ON","CA",3202
+"980","Kitimat","BC","CA",256
+"981","Kitsilano","BC","CA",22
+"982","Kleinburg","ON","CA",94
+"983","Knowlton","QC","CA",11
+"984","Komoka","ON","CA",28
+"985","Kootenay","BC","CA",111
+"986","Kronau","SK","CA",32
+"987","Kuujjuaq","QC","CA",278
+"988","L'Ancienne-Lorette","QC","CA",227
+"989","L'Ange-Gardien","QC","CA",18
+"990","L'ange Gardien","QC","CA",101
+"991","L'Assomption","QC","CA",199
+"992","L'Épiphanie","QC","CA",23
+"993","L'Île-des-Soeurs","QC","CA",37
+"994","L'Île-Perrot","QC","CA",101
+"995","L'isle-aux-grues","QC","CA",10
+"996","L'isle-verte","QC","CA",14
+"997","L'Islet","QC","CA",59
+"998","L'isletville","QC","CA",22
+"999","L'orignal","ON","CA",12
+"1000","La Baie","QC","CA",183
+"1001","La Broquerie","MB","CA",131
+"1002","La Corne","QC","CA",30
+"1003","La Crête","AB","CA",37
+"1004","La Dore","QC","CA",18
+"1005","La Glace","AB","CA",8
+"1006","La Guadeloupe","QC","CA",25
+"1007","La Loche","SK","CA",19
+"1008","La Macaza","QC","CA",20
+"1009","La Malbaie","QC","CA",139
+"1010","La Pocatiere","QC","CA",133
+"1011","La Prairie","QC","CA",425
+"1012","La Presentation","QC","CA",24
+"1013","La Reine","QC","CA",14
+"1014","La Ronge","SK","CA",192
+"1015","La Salle","MB","CA",65
+"1016","La Salle","QC","CA",116
+"1017","La Sarre","QC","CA",35
+"1018","La Tuque","QC","CA",72
+"1019","Labelle","QC","CA",8
+"1020","Labrador City","NL","CA",223
+"1021","Lac-au-saumon","QC","CA",19
+"1022","Lac-beauport","QC","CA",60
+"1023","Lac-Etchemin","QC","CA",31
+"1024","Lac-Mégantic","QC","CA",202
+"1025","Lac-saguay","QC","CA",28
+"1026","Lac-Saint-Jean","QC","CA",128
+"1027","Lac-simon","QC","CA",2
+"1028","Lac-superieur","QC","CA",20
+"1029","Lac Baker","NB","CA",6
+"1030","Lac La Biche","AB","CA",115
+"1031","Lachenaie","QC","CA",251
+"1032","Lachine","QC","CA",1625
+"1033","Lachute","QC","CA",105
+"1034","Lacolle","QC","CA",62
+"1035","Lacombe","AB","CA",230
+"1036","Ladner","BC","CA",50
+"1037","Ladysmith","BC","CA",180
+"1038","Lake Charles","ON","CA",2
+"1039","Lake Country","BC","CA",260
+"1040","Lake Cowichan","BC","CA",15
+"1041","Lake Lenore","SK","CA",15
+"1042","Lake Louise","AB","CA",397
+"1043","Lakefield","ON","CA",209
+"1044","Lakeshore","ON","CA",121
+"1045","Lakeside","ON","CA",7
+"1046","Lakeview","SK","CA",3
+"1047","Lambertville","NB","CA",36
+"1048","Lambton Shores","ON","CA",3
+"1049","Lamont","AB","CA",81
+"1050","Lampman","SK","CA",17
+"1051","Lanark","ON","CA",17
+"1052","Lancaster","ON","CA",96
+"1053","Lancaster Park","AB","CA",16
+"1054","Langenburg","SK","CA",18
+"1055","Langford","BC","CA",299
+"1056","Langham","SK","CA",17
+"1057","Langley","BC","CA",9203
+"1058","Langton","ON","CA",4
+"1059","Lanigan","SK","CA",18
+"1060","Lanoraie","QC","CA",63
+"1061","Lantzville","BC","CA",2
+"1062","Lasalle","QC","CA",1252
+"1063","LaSalle","ON","CA",295
+"1064","Laterriere","QC","CA",71
+"1065","Laurel","ON","CA",4
+"1066","Laurier-station","QC","CA",84
+"1067","Laval","QC","CA",14051
+"1068","Laval-des-Rapides","QC","CA",13
+"1069","Laval-ouest","QC","CA",2
+"1070","Lavaltrie","QC","CA",118
+"1071","Lavington","BC","CA",26
+"1072","Lavoy","AB","CA",37
+"1073","Le Breton","QC","CA",7
+"1074","Le Gardeur","QC","CA",59
+"1075","Leader","SK","CA",72
+"1076","Leaf Rapids","MB","CA",17
+"1077","Leamington","ON","CA",1100
+"1078","Leaside","ON","CA",37
+"1079","Leask","SK","CA",31
+"1080","Lebel-sur-Quévillon","QC","CA",12
+"1081","Leduc","AB","CA",1112
+"1082","Leduc County","AB","CA",15
+"1083","Leeds","ON","CA",30
+"1084","Lefaivre","ON","CA",25
+"1085","Lefroy","ON","CA",101
+"1086","Lemoyne","QC","CA",27
+"1087","Lennoxville","QC","CA",78
+"1088","Leonard","ON","CA",6
+"1089","Leoville","SK","CA",8
+"1090","Leroy","SK","CA",1
+"1091","Les Cedres","QC","CA",1
+"1092","Les Coteaux","QC","CA",21
+"1093","Les Eboulements","QC","CA",46
+"1094","Les Mechins","QC","CA",74
+"1095","Leslieville","AB","CA",7
+"1096","Lethbridge","AB","CA",3226
+"1097","Levack","ON","CA",28
+"1098","Lévis","QC","CA",4124
+"1099","Lewisporte","NL","CA",36
+"1100","Lexington","NS","CA",2
+"1101","Lillooet","BC","CA",53
+"1102","Lincoln","AB","CA",15
+"1103","Lincoln","ON","CA",142
+"1104","Lindell Beach","BC","CA",12
+"1105","Lindsay","ON","CA",1194
+"1106","Lion's Head","ON","CA",13
+"1107","Lipton","SK","CA",28
+"1108","Listowel","ON","CA",271
+"1109","Little Britain","ON","CA",5
+"1110","Little Buffalo","SK","CA",16
+"1111","Little Current","ON","CA",63
+"1112","Lively","ON","CA",108
+"1113","Liverpool","NS","CA",58
+"1114","Lloydminster","AB","CA",1057
+"1115","Lloydminster","SK","CA",643
+"1116","Lockport","MB","CA",28
+"1117","Logan Lake","BC","CA",193
+"1118","Lombardy","ON","CA",32
+"1119","London","ON","CA",15731
+"1120","Long Harbour","NL","CA",34
+"1121","Long Sault","ON","CA",115
+"1122","Longlac","ON","CA",10
+"1123","Longueuil","ON","CA",2
+"1124","Longueuil","QC","CA",5068
+"1125","Loreburn","SK","CA",10
+"1126","Loretteville","QC","CA",12
+"1127","Loretto","ON","CA",8
+"1128","Lorraine","QC","CA",7
+"1129","Lorrainville","QC","CA",3
+"1130","Lotbiniere","QC","CA",1
+"1131","Louiseville","QC","CA",92
+"1132","Lourdes-de-blanc-sablon","QC","CA",8
+"1133","Lourdes-de-joliette","QC","CA",8
+"1134","Lower Brighton","NB","CA",11
+"1135","Lower Mainland","BC","CA",3423
+"1136","Lower Sackville","NS","CA",394
+"1137","Lower St Marys","NB","CA",30
+"1138","Lower West Pubnico","NS","CA",87
+"1139","Lucan","ON","CA",27
+"1140","Lucknow","ON","CA",14
+"1141","Lucky Lake","SK","CA",23
+"1142","Lumby","BC","CA",23
+"1143","Lumsden","SK","CA",47
+"1144","Lundar","MB","CA",33
+"1145","Lunenburg","NS","CA",206
+"1146","Lynden","ON","CA",61
+"1147","Lynnwood","AB","CA",23
+"1148","Lyster","QC","CA",2
+"1149","Lytton","BC","CA",18
+"1150","Ma-Me-O Beach","AB","CA",22
+"1151","Macamic","QC","CA",5
+"1152","Mackenzie","BC","CA",292
+"1153","Macklin","SK","CA",18
+"1154","Mactier","ON","CA",140
+"1155","Madrid","SK","CA",17
+"1156","Magnetawan","ON","CA",78
+"1157","Magog","QC","CA",682
+"1158","Mahone Bay","NS","CA",84
+"1159","Maidstone","ON","CA",40
+"1160","Maidstone","SK","CA",15
+"1161","Major","SK","CA",16
+"1162","Malahat","BC","CA",67
+"1163","Malakoff","ON","CA",17
+"1164","Malartic","QC","CA",41
+"1165","Mallaig","AB","CA",14
+"1166","Mallorytown","ON","CA",31
+"1167","Malton","ON","CA",49
+"1168","Manchester","ON","CA",6
+"1169","Manitou","MB","CA",26
+"1170","Manitou Beach","SK","CA",46
+"1171","Maniwaki","QC","CA",23
+"1172","Mankota","SK","CA",3
+"1173","Manning","AB","CA",37
+"1174","Manning Park","BC","CA",21
+"1175","Manotick","ON","CA",141
+"1176","Manouane","QC","CA",12
+"1177","Manseau","QC","CA",1
+"1178","Maple","ON","CA",805
+"1179","Maple Creek","SK","CA",16
+"1180","Maple Grove","ON","CA",3
+"1181","Maple Ridge","BC","CA",2335
+"1182","Maplegrove","ON","CA",8
+"1183","Mar","ON","CA",4
+"1184","Marathon","ON","CA",21
+"1185","Marchwell","SK","CA",23
+"1186","Marieville","QC","CA",41
+"1187","Markdale","ON","CA",115
+"1188","Markham","ON","CA",15808
+"1189","Marmora","ON","CA",7
+"1190","Marsden","SK","CA",20
+"1191","Marshall","SK","CA",1
+"1192","Marshfield","PE","CA",12
+"1193","Martensville","SK","CA",55
+"1194","Marystown","NL","CA",126
+"1195","Mascouche","QC","CA",311
+"1196","Maskinonge","QC","CA",53
+"1197","Masset","BC","CA",73
+"1198","Massueville","QC","CA",5
+"1199","Matachewan","ON","CA",50
+"1200","Matagami","QC","CA",10
+"1201","Matane","QC","CA",89
+"1202","Matapedia","QC","CA",8
+"1203","Mathers Corners","ON","CA",24
+"1204","Matheson","ON","CA",17
+"1205","Mattice","ON","CA",4
+"1206","Maxville","ON","CA",79
+"1207","Mayerthorpe","AB","CA",41
+"1208","Mayo","YT","CA",7
+"1209","McBride","BC","CA",51
+"1210","McCreary","MB","CA",62
+"1211","Mcgregor","ON","CA",7
+"1212","Mckerrow","ON","CA",28
+"1213","McLean","SK","CA",28
+"1214","McLennan","AB","CA",22
+"1215","Mcmasterville","QC","CA",57
+"1216","McMasterville","QC","CA",84
+"1217","Meadow Creek","BC","CA",27
+"1218","Meadow Lake","SK","CA",188
+"1219","Meadowvale Village","ON","CA",12
+"1220","Meaford","ON","CA",37
+"1221","Medford","NB","CA",34
+"1222","Medicine Hat","AB","CA",2483
+"1223","Melancthon","ON","CA",53
+"1224","Melbourne","QC","CA",27
+"1225","Melfort","SK","CA",130
+"1226","Melita","MB","CA",11
+"1227","Melrose","NL","CA",4
+"1228","Melville","SK","CA",101
+"1229","Membertou","NS","CA",39
+"1230","Memramcook","NB","CA",13
+"1231","Mercier","QC","CA",26
+"1232","Merrickville","ON","CA",13
+"1233","Merritt","BC","CA",383
+"1234","Metabetchouan-lac-a-la-croix","QC","CA",1
+"1235","Metcalfe","ON","CA",43
+"1236","Metrotown","BC","CA",54
+"1237","Middle Lake","SK","CA",4
+"1238","Middle Sackville","NS","CA",17
+"1239","Middle West Pubnico","NS","CA",17
+"1240","Middleton","NS","CA",85
+"1241","Midhurst","ON","CA",19
+"1242","Midland","ON","CA",692
+"1243","Midway","BC","CA",30
+"1244","Milestone","SK","CA",6
+"1245","Milk River","AB","CA",46
+"1246","Mill Bay","BC","CA",25
+"1247","Millarville","AB","CA",3
+"1248","Millbrook","NS","CA",33
+"1249","Millbrook","ON","CA",33
+"1250","Millet","AB","CA",26
+"1251","Mills","ON","CA",10
+"1252","Milton","ON","CA",5893
+"1253","Milverton","ON","CA",35
+"1254","Mimico","ON","CA",33
+"1255","Minden","ON","CA",126
+"1256","Minett","ON","CA",160
+"1257","Minnedosa","MB","CA",38
+"1258","Minto","NB","CA",22
+"1259","Mirabel","QC","CA",1440
+"1260","Miramichi","NB","CA",494
+"1261","Missinipe","SK","CA",33
+"1262","Mission","BC","CA",876
+"1263","Mississauga","ON","CA",55117
+"1264","Mississauga Beach","ON","CA",6
+"1265","Mississauga Valley","ON","CA",3
+"1266","Mistissini","QC","CA",9
+"1267","Mitchell","ON","CA",249
+"1268","Moncton","NB","CA",4441
+"1269","Moncton Area","NB","CA",93
+"1270","Mono","ON","CA",95
+"1271","Mont-Joli","QC","CA",86
+"1272","Mont-Laurier","QC","CA",86
+"1273","Mont-royal","QC","CA",730
+"1274","Mont-Saint-Grégoire","QC","CA",46
+"1275","Mont-Saint-Hilaire","QC","CA",104
+"1276","Mont-Tremblant","QC","CA",478
+"1277","Montague","PE","CA",84
+"1278","Montebello","QC","CA",112
+"1279","Montmagny","QC","CA",376
+"1280","Montmartre","SK","CA",21
+"1281","Montréal","QC","CA",93421
+"1282","Montréal-Est","QC","CA",1413
+"1283","Montreal-nord","QC","CA",560
+"1284","Montréal-Ouest","QC","CA",845
+"1285","Montreal Lake","SK","CA",3
+"1286","Moonstone","ON","CA",20
+"1287","Mooretown","ON","CA",9
+"1288","Moose Creek","ON","CA",14
+"1289","Moose Jaw","SK","CA",1346
+"1290","Moosomin","SK","CA",91
+"1291","Morden","MB","CA",110
+"1292","Morell","PE","CA",4
+"1293","Morewood","ON","CA",17
+"1294","Morin-heights","QC","CA",2
+"1295","Morinville","AB","CA",231
+"1296","Morley","AB","CA",15
+"1297","Morris","MB","CA",60
+"1298","Morrisburg","ON","CA",31
+"1299","Mount Albert","ON","CA",34
+"1300","Mount Albion","PE","CA",4
+"1301","Mount Currie","BC","CA",92
+"1302","Mount Forest","ON","CA",359
+"1303","Mount Hope","PE","CA",14
+"1304","Mount Pearl","NL","CA",540
+"1305","Mount Pleasant","ON","CA",2
+"1306","Mount Royal","PE","CA",12
+"1307","Mount Uniacke","NS","CA",3
+"1308","Mountain House","AB","CA",8
+"1309","Mountain View","AB","CA",9
+"1310","Mountain View County","AB","CA",57
+"1311","Muenster","SK","CA",7
+"1312","Muirkirk","ON","CA",4
+"1313","Mulmur","ON","CA",15
+"1314","Muncho Lake","BC","CA",47
+"1315","Munster","ON","CA",5
+"1316","Muskeg Lake","SK","CA",11
+"1317","Muskoka","ON","CA",215
+"1318","Muskoka Falls","ON","CA",9
+"1319","Musquodoboit Harbour","NS","CA",79
+"1320","Naicam","SK","CA",84
+"1321","Nain","NL","CA",13
+"1322","Nakusp","BC","CA",1
+"1323","Nanaimo","BC","CA",4264
+"1324","Nanticoke","ON","CA",32
+"1325","Nanton","AB","CA",2
+"1326","Napierville","QC","CA",100
+"1327","Naramata","BC","CA",11
+"1328","National Capital Region","ON","CA",520
+"1329","National Capital Region","QC","CA",6
+"1330","Navan","ON","CA",10
+"1331","Navarre","AB","CA",1
+"1332","Nechako","BC","CA",70
+"1333","Neepawa","MB","CA",172
+"1334","Neguac","NB","CA",21
+"1335","Neilburg","SK","CA",19
+"1336","Nelson","BC","CA",562
+"1337","Nelson House","MB","CA",23
+"1338","Nepean","ON","CA",1251
+"1339","Nestor Falls","ON","CA",79
+"1340","Neudorf","SK","CA",44
+"1341","Neuville","QC","CA",15
+"1342","New Annan","PE","CA",38
+"1343","New Bothwell","MB","CA",198
+"1344","New Carlisle","QC","CA",6
+"1345","New Denmark","NB","CA",1
+"1346","New Denver","BC","CA",4
+"1347","New Dundee","ON","CA",73
+"1348","New Germany","NS","CA",4
+"1349","New Glasgow","NS","CA",391
+"1350","New Glasgow","ON","CA",38
+"1351","New Hamburg","ON","CA",215
+"1352","New Haven","PE","CA",2
+"1353","New Liskeard","ON","CA",148
+"1354","New Lowell","ON","CA",25
+"1355","New Minas","NS","CA",183
+"1356","New Richmond","QC","CA",26
+"1357","New Ross","NS","CA",32
+"1358","New Waterford","NS","CA",37
+"1359","New Westminster","BC","CA",2733
+"1360","New Zealand","PE","CA",9
+"1361","Newbury","ON","CA",20
+"1362","Newcastle","ON","CA",162
+"1363","Newmarket","ON","CA",5061
+"1364","Newton","BC","CA",11
+"1365","Niagara","ON","CA",834
+"1366","Niagara-on-the-Lake","ON","CA",1152
+"1367","Niagara Falls","ON","CA",3700
+"1368","Nicolet","QC","CA",186
+"1369","Nipawin","SK","CA",132
+"1370","Nipigon","ON","CA",6
+"1371","Nisku","AB","CA",772
+"1372","Niton Junction","AB","CA",90
+"1373","Niverville","MB","CA",11
+"1374","Nobleford","AB","CA",2
+"1375","Nobleton","ON","CA",141
+"1376","Nokomis","SK","CA",38
+"1377","Nootka","BC","CA",8
+"1378","Norfolk","ON","CA",9
+"1379","Norfolk County","ON","CA",196
+"1380","Norman Wells","NT","CA",27
+"1381","Normandin","QC","CA",5
+"1382","Norris Point","NL","CA",14
+"1383","North Battleford","SK","CA",575
+"1384","North Bay","ON","CA",2325
+"1385","North Cowichan","BC","CA",2
+"1386","North Delta","BC","CA",38
+"1387","North Gower","ON","CA",91
+"1388","North Hatley","QC","CA",51
+"1389","North Kemptville","NS","CA",6
+"1390","North Main","MB","CA",43
+"1391","North Oshawa","ON","CA",7
+"1392","North Perth","ON","CA",1
+"1393","North Saanich","BC","CA",34
+"1394","North Shore","PE","CA",82
+"1395","North Sydney","NS","CA",67
+"1396","North Vancouver","BC","CA",4977
+"1397","North York","ON","CA",10811
+"1398","Northumberland","ON","CA",74
+"1399","Northwest","NS","CA",6
+"1400","Norway","PE","CA",10
+"1401","Norwich","ON","CA",71
+"1402","Norwood","ON","CA",150
+"1403","Notre-Dame-de-Grâce","QC","CA",121
+"1404","Notre-dame-de-l'ile-perrot","QC","CA",8
+"1405","Notre-dame-de-la-paix","QC","CA",14
+"1406","Notre-Dame-de-la-Salette","QC","CA",99
+"1407","Notre-Dame-de-Lourdes","QC","CA",1
+"1408","Notre-dame-des-pins","QC","CA",25
+"1409","Notre-dame-des-prairies","QC","CA",58
+"1410","Notre-Dame-du-Bon-Conseil","QC","CA",44
+"1411","Notre-dame-du-nord","QC","CA",16
+"1412","Notre Dame de Lourdes","MB","CA",23
+"1413","Nottawa","ON","CA",5
+"1414","Noyan","QC","CA",33
+"1415","Nunavik","QC","CA",76
+"1416","O'Leary","PE","CA",80
+"1417","Oak Bluff","MB","CA",18
+"1418","Oak Ridges","ON","CA",22
+"1419","Oakbank","MB","CA",55
+"1420","Oakdale","ON","CA",2
+"1421","Oakland","ON","CA",2
+"1422","Oakridge","BC","CA",4
+"1423","Oakville","MB","CA",13
+"1424","Oakville","ON","CA",12541
+"1425","Oba","ON","CA",26
+"1426","Odessa","ON","CA",101
+"1427","Ogema","SK","CA",6
+"1428","Ohsweken","ON","CA",1
+"1429","Oil Springs","ON","CA",11
+"1430","Oka","QC","CA",117
+"1431","Okanagan","BC","CA",286
+"1432","Okanagan Falls","BC","CA",70
+"1433","Okotoks","AB","CA",540
+"1434","Oldcastle","ON","CA",462
+"1435","Olds","AB","CA",364
+"1436","Oliver","BC","CA",432
+"1437","Omemee","ON","CA",6
+"1438","Onanole","MB","CA",1
+"1439","Onion Lake","SK","CA",92
+"1440","Onoway","AB","CA",60
+"1441","Ontario Bay","MB","CA",11
+"1442","Opaskwayak","MB","CA",5
+"1443","Orangeville","ON","CA",1792
+"1444","Orford","QC","CA",22
+"1445","Orillia","ON","CA",2326
+"1446","Orleans","ON","CA",698
+"1447","Oro","ON","CA",3
+"1448","Oro-Medonte","ON","CA",40
+"1449","Oro Station","ON","CA",8
+"1450","Oromocto","NB","CA",109
+"1451","Orono","ON","CA",41
+"1452","Osgoode","ON","CA",59
+"1453","Oshawa","ON","CA",5114
+"1454","Osoyoos","BC","CA",350
+"1455","Ottawa","ON","CA",43230
+"1456","Ottawa East","ON","CA",455
+"1457","Ottawa South","ON","CA",34
+"1458","Ottawa West","ON","CA",435
+"1459","Outlook","SK","CA",98
+"1460","Outremont","QC","CA",176
+"1461","Owen Sound","ON","CA",1624
+"1462","Oxbow","SK","CA",66
+"1463","Oxford","NS","CA",19
+"1464","Oxford","ON","CA",10
+"1465","Oyen","AB","CA",14
+"1466","Oyster Bed Bridge","PE","CA",4
+"1467","Pacific","BC","CA",2
+"1468","Pain Court","ON","CA",17
+"1469","Paisley","ON","CA",11
+"1470","Palgrave","ON","CA",54
+"1471","Palmerston","ON","CA",65
+"1472","Pangman","SK","CA",7
+"1473","Panorama","BC","CA",105
+"1474","Papineauville","QC","CA",31
+"1475","Paquetville","NB","CA",18
+"1476","Paradise","NL","CA",243
+"1477","Parc Ignace-Bourget","QC","CA",26
+"1478","Parent","QC","CA",11
+"1479","Paris","ON","CA",422
+"1480","Park Royal","BC","CA",58
+"1481","Parkhill","ON","CA",4
+"1482","Parkland County","AB","CA",5
+"1483","Parksville","BC","CA",585
+"1484","Parrsboro","NS","CA",9
+"1485","Parry Sound","ON","CA",522
+"1486","Pasadena","NL","CA",9
+"1487","Paspebiac","QC","CA",18
+"1488","Peace River","AB","CA",526
+"1489","Peachland","BC","CA",5
+"1490","Peel","ON","CA",316
+"1491","Peerless Lake","AB","CA",1
+"1492","Peers","AB","CA",84
+"1493","Pelee Island","ON","CA",13
+"1494","Pelham","ON","CA",65
+"1495","Pemberton","BC","CA",45
+"1496","Pembroke","ON","CA",579
+"1497","Pender Harbour","BC","CA",14
+"1498","Penetanguishene","ON","CA",296
+"1499","Penhold","AB","CA",13
+"1500","Penticton","BC","CA",2056
+"1501","Perkinsfield","ON","CA",3
+"1502","Perth","ON","CA",165
+"1503","Perth-andover","NB","CA",12
+"1504","Petawawa","ON","CA",157
+"1505","Peterborough","ON","CA",3368
+"1506","Petersburg","ON","CA",74
+"1507","Petite-riviere-saint-francois","QC","CA",37
+"1508","Petrolia","ON","CA",81
+"1509","Petty Harbour","NL","CA",100
+"1510","Pickering","ON","CA",3352
+"1511","Picton","ON","CA",398
+"1512","Pictou","NS","CA",171
+"1513","Picture Butte","AB","CA",99
+"1514","Piedmont","QC","CA",46
+"1515","Pierrefonds","QC","CA",230
+"1516","Pierreville","QC","CA",18
+"1517","Pigeon Lake","AB","CA",26
+"1518","Pikangikum","ON","CA",1
+"1519","Pilot Butte","SK","CA",3
+"1520","Pilot Mound","MB","CA",14
+"1521","Pincher Creek","AB","CA",114
+"1522","Pincourt","QC","CA",297
+"1523","Pine Ridge","ON","CA",16
+"1524","Pine Valley","ON","CA",7
+"1525","Pinehouse Lake","SK","CA",1
+"1526","Pink Mountain","BC","CA",25
+"1527","Pintendre","QC","CA",76
+"1528","Pipestone","MB","CA",59
+"1529","Pitt Meadows","BC","CA",625
+"1530","Pittsburgh","ON","CA",35
+"1531","Place-Laurier","QC","CA",8
+"1532","Placentia","NL","CA",54
+"1533","Plaisance","QC","CA",12
+"1534","Plantagenet","ON","CA",274
+"1535","Plattsville","ON","CA",41
+"1536","Pleasant Hill","NS","CA",2
+"1537","Pleasant Park","ON","CA",1
+"1538","Pleasant Valley","ON","CA",13
+"1539","Pleasantdale","SK","CA",51
+"1540","Plenty","SK","CA",50
+"1541","Plessisville","QC","CA",230
+"1542","Plevna","ON","CA",4
+"1543","Plum Point","NL","CA",28
+"1544","Pohenegamook","QC","CA",4
+"1545","Point Edward","ON","CA",18
+"1546","Point Leamington","NL","CA",16
+"1547","Point Tupper","NS","CA",8
+"1548","Pointe-aux-trembles","QC","CA",537
+"1549","Pointe-Claire","QC","CA",2417
+"1550","Pointe-Saint-Charles","QC","CA",51
+"1551","Pointe-sapin","NB","CA",32
+"1552","Ponoka","AB","CA",200
+"1553","Pont-rouge","QC","CA",12
+"1554","Ponteix","SK","CA",28
+"1555","Pontypool","ON","CA",22
+"1556","Porcupine","ON","CA",12
+"1557","Porcupine Plain","SK","CA",3
+"1558","Port-Cartier","QC","CA",74
+"1559","Port-daniel","QC","CA",51
+"1560","Port Alberni","BC","CA",270
+"1561","Port au Choix","NL","CA",55
+"1562","Port aux Basques","NL","CA",14
+"1563","Port Carling","ON","CA",279
+"1564","Port Colborne","ON","CA",226
+"1565","Port Coquitlam","BC","CA",2669
+"1566","Port Credit","ON","CA",77
+"1567","Port Dover","ON","CA",26
+"1568","Port Elgin","ON","CA",247
+"1569","Port Hardy","BC","CA",78
+"1570","Port Hawkesbury","NS","CA",228
+"1571","Port Hood","NS","CA",20
+"1572","Port Hope","ON","CA",702
+"1573","Port Kells","BC","CA",22
+"1574","Port Lambton","ON","CA",16
+"1575","Port Moody","BC","CA",558
+"1576","Port Mouton","NS","CA",11
+"1577","Port Perry","ON","CA",466
+"1578","Port Robinson","ON","CA",15
+"1579","Port Rowan","ON","CA",32
+"1580","Port Severn","ON","CA",47
+"1581","Port Stanley","ON","CA",50
+"1582","Port Union","ON","CA",13
+"1583","Port Williams","NS","CA",146
+"1584","Portage la Prairie","MB","CA",466
+"1585","Portland","ON","CA",17
+"1586","Portneuf","QC","CA",107
+"1587","Portugal Cove-st Philips","NL","CA",12
+"1588","Portugal Cove-St. Philip's","NL","CA",11
+"1589","Powassan","ON","CA",41
+"1590","Powell","ON","CA",2
+"1591","Powell River","BC","CA",232
+"1592","Preeceville","SK","CA",21
+"1593","Prentiss","AB","CA",10
+"1594","Prescott","ON","CA",95
+"1595","Prevost","QC","CA",19
+"1596","Priddis","AB","CA",49
+"1597","Prince Albert","SK","CA",1469
+"1598","Prince Edward","ON","CA",74
+"1599","Prince George","BC","CA",3752
+"1600","Prince Rupert","BC","CA",444
+"1601","Princeton","BC","CA",61
+"1602","Princeton","ON","CA",67
+"1603","Princeville","QC","CA",241
+"1604","Provost","AB","CA",10
+"1605","Pubnico","NS","CA",2
+"1606","Pugwash","NS","CA",15
+"1607","Pukatawagan","MB","CA",1
+"1608","Punnichy","SK","CA",1
+"1609","Purple Hill","ON","CA",4
+"1610","Puslinch","ON","CA",103
+"1611","Putnam","ON","CA",13
+"1612","Puvirnituq","QC","CA",16
+"1613","Qu'Appelle","SK","CA",16
+"1614","Qualicum Beach","BC","CA",150
+"1615","Quathiaski Cove","BC","CA",23
+"1616","Quebec City","QC","CA",23494
+"1617","Queen Charlotte City","BC","CA",29
+"1618","Queens","NS","CA",1
+"1619","Queensborough","BC","CA",54
+"1620","Queensville","ON","CA",15
+"1621","Quesnel","BC","CA",550
+"1622","Quinte West","ON","CA",55
+"1623","Quispamsis","NB","CA",12
+"1624","Quyon","QC","CA",26
+"1625","Racine","QC","CA",1
+"1626","Radisson","QC","CA",14
+"1627","Radville","SK","CA",10
+"1628","Rainbow Lake","AB","CA",14
+"1629","Rainy River","ON","CA",27
+"1630","Rama","ON","CA",172
+"1631","Rama","SK","CA",14
+"1632","Randall","ON","CA",4
+"1633","Rankin Inlet","NU","CA",89
+"1634","Rapid City","MB","CA",1
+"1635","Rawdon","QC","CA",34
+"1636","Raymond","AB","CA",124
+"1637","Raymore","SK","CA",43
+"1638","Red Deer","AB","CA",4194
+"1639","Red Deer County","AB","CA",129
+"1640","Red Earth Creek","AB","CA",129
+"1641","Red Lake","ON","CA",169
+"1642","Red Rock","ON","CA",15
+"1643","Redcliff","AB","CA",32
+"1644","Redstone","BC","CA",34
+"1645","Redwater","AB","CA",23
+"1646","Redwood","ON","CA",9
+"1647","Redwood Meadows","AB","CA",3
+"1648","Reford","SK","CA",14
+"1649","Regina","SK","CA",9573
+"1650","Remote","UNKNOWN","CA",263
+"1651","Renfrew","ON","CA",108
+"1652","Repentigny","QC","CA",753
+"1653","Resource","SK","CA",43
+"1654","Revelstoke","BC","CA",280
+"1655","Rexdale","ON","CA",202
+"1656","Richelieu","QC","CA",81
+"1657","Richibucto","NB","CA",43
+"1658","Richmond","BC","CA",14651
+"1659","Richmond","ON","CA",20
+"1660","Richmond","QC","CA",143
+"1661","Richmond Hill","ON","CA",8760
+"1662","Ridgeway","ON","CA",6
+"1663","Rigaud","QC","CA",41
+"1664","Rimbey","AB","CA",7
+"1665","Rimouski","QC","CA",353
+"1666","River Valley","ON","CA",2
+"1667","Rivers","MB","CA",13
+"1668","Riverton","MB","CA",14
+"1669","Riverview","NB","CA",161
+"1670","Rivière-des-Prairies","QC","CA",119
+"1671","Rivière-du-Loup","QC","CA",603
+"1672","Rivière-Rouge","QC","CA",36
+"1673","Roberts Creek","BC","CA",3
+"1674","Roberval","QC","CA",64
+"1675","Roblin","MB","CA",34
+"1676","Rocanville","SK","CA",34
+"1677","Rock Creek","BC","CA",25
+"1678","Rock Forest","QC","CA",7
+"1679","Rockglen","SK","CA",19
+"1680","Rockland","NB","CA",5
+"1681","Rockland","ON","CA",316
+"1682","Rockland","QC","CA",22
+"1683","Rockwood","ON","CA",128
+"1684","Rocky Harbour","NL","CA",10
+"1685","Rocky Lane","AB","CA",4
+"1686","Rocky Mountain House","AB","CA",205
+"1687","Rocky View","AB","CA",628
+"1688","Rockyview","BC","CA",11
+"1689","Rodney","ON","CA",9
+"1690","Rolling Hills","AB","CA",25
+"1691","Rose Valley","SK","CA",3
+"1692","Rosemère","QC","CA",239
+"1693","Rosemont","ON","CA",4
+"1694","Roseneath","ON","CA",29
+"1695","Rosenort","MB","CA",34
+"1696","Rosetown","SK","CA",52
+"1697","Ross River","YT","CA",16
+"1698","Rossburn","MB","CA",15
+"1699","Rosseau","ON","CA",80
+"1700","Rosseau Road","ON","CA",8
+"1701","Rosser","MB","CA",39
+"1702","Rossland","BC","CA",6
+"1703","Rosthern","SK","CA",11
+"1704","Rothesay","NB","CA",120
+"1705","Rougemont","QC","CA",152
+"1706","Rouleau","SK","CA",32
+"1707","Rouyn-Noranda","QC","CA",643
+"1708","Roxboro","QC","CA",68
+"1709","Roxton Falls","QC","CA",78
+"1710","Roxton Pond","QC","CA",17
+"1711","Runnymede","SK","CA",5
+"1712","Rusagonis","NB","CA",41
+"1713","Russell","MB","CA",9
+"1714","Russell","ON","CA",20
+"1715","Ruthven","ON","CA",91
+"1716","Rycroft","AB","CA",58
+"1717","Ryley","AB","CA",53
+"1718","S Lake","MB","CA",2
+"1719","Saanich","BC","CA",231
+"1720","Saanichton","BC","CA",237
+"1721","Sackville","NB","CA",89
+"1722","Saguenay","QC","CA",974
+"1723","Saint-Adrien","QC","CA",12
+"1724","Saint-alban","QC","CA",1
+"1725","Saint-alexandre-de-kamouraska","QC","CA",15
+"1726","Saint-Alexis","QC","CA",31
+"1727","Saint-Alexis-des-Monts","QC","CA",27
+"1728","Saint-Alphonse-de-Granby","QC","CA",60
+"1729","Saint-Amable","QC","CA",61
+"1730","Saint-Ambroise-de-Kildare","QC","CA",8
+"1731","Saint-André-Avellin","QC","CA",26
+"1732","Saint-Anselme","QC","CA",174
+"1733","Saint-Antoine","NB","CA",27
+"1734","Saint-antoine-de-tilly","QC","CA",19
+"1735","Saint-Antoine-sur-Richelieu","QC","CA",14
+"1736","Saint-antonin","QC","CA",22
+"1737","Saint-apollinaire","QC","CA",35
+"1738","Saint-arsene","QC","CA",33
+"1739","Saint-Augustin","QC","CA",177
+"1740","Saint-augustin-de-desmaures","QC","CA",424
+"1741","Saint-basile","NB","CA",53
+"1742","Saint-Basile-le-Grand","QC","CA",15
+"1743","Saint-benoit-labre","QC","CA",17
+"1744","Saint-bernard","QC","CA",73
+"1745","Saint-Bernard-de-Lacolle","QC","CA",18
+"1746","Saint-blaise-sur-richelieu","QC","CA",3
+"1747","Saint-Bonaventure","QC","CA",26
+"1748","Saint-boniface-de-shawinigan","QC","CA",3
+"1749","Saint-Bruno-de-Montarville","QC","CA",1204
+"1750","Saint-bruno-lac-saint-jean","QC","CA",29
+"1751","Saint-Calixte-de-Kilkenny","QC","CA",9
+"1752","Saint-Casimir","QC","CA",24
+"1753","Saint-Célestin","QC","CA",9
+"1754","Saint-Césaire","QC","CA",230
+"1755","Saint-Charles","QC","CA",14
+"1756","Saint-Charles-Borromée","QC","CA",164
+"1757","Saint-charles-de-bellechasse","QC","CA",6
+"1758","Saint-Charles-de-Drummond","QC","CA",34
+"1759","Saint-Charles-sur-Richelieu","QC","CA",15
+"1760","Saint-clet","QC","CA",8
+"1761","Saint-Colomban","QC","CA",21
+"1762","Saint-Côme","QC","CA",2
+"1763","Saint-Constant","QC","CA",262
+"1764","Saint-Damase","QC","CA",79
+"1765","Saint-Damien","QC","CA",6
+"1766","Saint-damien-de-buckland","QC","CA",29
+"1767","Saint-David","QC","CA",3
+"1768","Saint-Denis-de-Brompton","QC","CA",23
+"1769","Saint-Denis-sur-Richelieu","QC","CA",15
+"1770","Saint-Dominique","QC","CA",12
+"1771","Saint-donat","QC","CA",79
+"1772","Saint-donat-de-montcalm","QC","CA",21
+"1773","Saint-edouard-de-lotbiniere","QC","CA",20
+"1774","Saint-Elizabeth","QC","CA",12
+"1775","Saint-Elzéar","QC","CA",42
+"1776","Saint-Émile","QC","CA",1
+"1777","Saint-ephrem-de-beauce","QC","CA",52
+"1778","Saint-Esprit","QC","CA",60
+"1779","Saint-Étienne","QC","CA",9
+"1780","Saint-Eugène","QC","CA",50
+"1781","Saint-Eugène-de-Grantham","QC","CA",28
+"1782","Saint-Eustache","QC","CA",1577
+"1783","Saint-Évariste-de-Forsyth","QC","CA",4
+"1784","Saint-Faustin-Lac-Carré","QC","CA",26
+"1785","Saint-Félicien","QC","CA",10
+"1786","Saint-Félix-de-Kingsey","QC","CA",6
+"1787","Saint-Félix-de-Valois","QC","CA",144
+"1788","Saint-Ferdinand","QC","CA",2
+"1789","Saint-François","QC","CA",41
+"1790","Saint-francois-d'assise","QC","CA",13
+"1791","Saint-francois-du-lac","QC","CA",49
+"1792","Saint-Gabriel","QC","CA",6
+"1793","Saint-Gabriel-de-Valcartier","QC","CA",152
+"1794","Saint-Gédéon","QC","CA",5
+"1795","Saint-Gédéon-de-Beauce","QC","CA",23
+"1796","Saint-Georges","QC","CA",737
+"1797","Saint-Georges-de-Beauce","QC","CA",166
+"1798","Saint-Germain-de-Grantham","QC","CA",140
+"1799","Saint-Grégoire","QC","CA",16
+"1800","Saint-Guillaume","QC","CA",8
+"1801","Saint-Henri","QC","CA",31
+"1802","Saint-henri-de-levis","QC","CA",177
+"1803","Saint-Hilaire","QC","CA",104
+"1804","Saint-Honoré-de-Shenley","QC","CA",11
+"1805","Saint-Hubert","QC","CA",2428
+"1806","Saint-Hyacinthe","QC","CA",1923
+"1807","Saint-Ignace-de-Stanbridge","QC","CA",19
+"1808","Saint-isidore","QC","CA",26
+"1809","Saint-isidore-de-laprairie","QC","CA",8
+"1810","Saint-Jacques","QC","CA",37
+"1811","Saint-jacques-le-mineur","QC","CA",14
+"1812","Saint-Jacques-le-Mineur","QC","CA",36
+"1813","Saint-Jean","QC","CA",26
+"1814","Saint-jean-baptiste","QC","CA",47
+"1815","Saint-Jean-de-Matha","QC","CA",36
+"1816","Saint-jean-port-joli","QC","CA",11
+"1817","Saint-Jean-sur-Richelieu","QC","CA",1941
+"1818","Saint-Jérôme","QC","CA",1450
+"1819","Saint-joseph-de-beauce","QC","CA",45
+"1820","Saint-Jude","QC","CA",31
+"1821","Saint-jules","QC","CA",13
+"1822","Saint-Lambert","QC","CA",151
+"1823","Saint-lambert-de-lauzon","QC","CA",102
+"1824","Saint-Laurent","QC","CA",6402
+"1825","Saint-Lazare","QC","CA",58
+"1826","Saint-lazare-de-bellechasse","QC","CA",26
+"1827","Saint-leonard","NB","CA",29
+"1828","Saint-leonard","QC","CA",722
+"1829","Saint-Léonard-d'Aston","QC","CA",27
+"1830","Saint-Liboire","QC","CA",13
+"1831","Saint-Lin","QC","CA",24
+"1832","Saint-Lin--Laurentides","QC","CA",111
+"1833","Saint-Louis","NB","CA",25
+"1834","Saint-Louis-de-Blandford","QC","CA",39
+"1835","Saint-Louis-de-Gonzague","QC","CA",21
+"1836","Saint-louis-de-kent","NB","CA",15
+"1837","Saint-ludger","QC","CA",15
+"1838","Saint-ludger-de-milot","QC","CA",21
+"1839","Saint-Ludger-de-Milot","QC","CA",2
+"1840","Saint-magloire","QC","CA",15
+"1841","Saint-Malo","QC","CA",16
+"1842","Saint-Marc-des-Carrières","QC","CA",26
+"1843","Saint-Martin","QC","CA",5
+"1844","Saint-mathias-sur-richelieu","QC","CA",103
+"1845","Saint-Mathias-sur-Richelieu","QC","CA",14
+"1846","Saint-Mathieu","QC","CA",23
+"1847","Saint-Mathieu-de-Beloeil","QC","CA",77
+"1848","Saint-mathieu-de-laprairie","QC","CA",19
+"1849","Saint-Mathieu-de-Rioux","QC","CA",25
+"1850","Saint-Michel","QC","CA",31
+"1851","Saint-Michel-de-Bellechasse","QC","CA",59
+"1852","Saint-Michel-des-Saints","QC","CA",37
+"1853","Saint-Nazaire","QC","CA",14
+"1854","Saint-Nicéphore","QC","CA",31
+"1855","Saint-nicolas","QC","CA",81
+"1856","Saint-Norbert","QC","CA",28
+"1857","Saint-Odilon","QC","CA",12
+"1858","Saint-Pamphile","QC","CA",16
+"1859","Saint-pascal","QC","CA",5
+"1860","Saint-Paul","QC","CA",2
+"1861","Saint-Paul-d'Abbotsford","QC","CA",3
+"1862","Saint-paulin","QC","CA",78
+"1863","Saint-philemon","QC","CA",5
+"1864","Saint-Philippe","QC","CA",44
+"1865","Saint-Pie","QC","CA",9
+"1866","Saint-Placide","QC","CA",7
+"1867","Saint-Polycarpe","QC","CA",10
+"1868","Saint-Quentin","NB","CA",19
+"1869","Saint-raymond","QC","CA",78
+"1870","Saint-Rémi","QC","CA",119
+"1871","Saint-Rémi-de-Tingwick","QC","CA",8
+"1872","Saint-robert-bellarmin","QC","CA",56
+"1873","Saint-Roch","QC","CA",11
+"1874","Saint-Roch-de-l'Achigan","QC","CA",51
+"1875","Saint-romuald","QC","CA",106
+"1876","Saint-Rosaire","QC","CA",24
+"1877","Saint-sauveur","QC","CA",270
+"1878","Saint-sebastien-de-frontenac","QC","CA",28
+"1879","Saint-Simon","QC","CA",4
+"1880","Saint-telesphore","QC","CA",1
+"1881","Saint-Thomas","QC","CA",71
+"1882","Saint-Tite","QC","CA",87
+"1883","Saint-Valère","QC","CA",6
+"1884","Saint-Valérien-de-Milton","QC","CA",69
+"1885","Saint-vallier","QC","CA",7
+"1886","Saint-vianney","QC","CA",8
+"1887","Saint-Victor","QC","CA",24
+"1888","Saint Andrews","NB","CA",179
+"1889","Saint John","NB","CA",3557
+"1890","Saint Stephen","NB","CA",19
+"1891","Sainte-Adèle","QC","CA",50
+"1892","Sainte-Agathe","QC","CA",19
+"1893","Sainte-Agathe-des-Monts","QC","CA",182
+"1894","Sainte-Anne-de-Beaupré","QC","CA",12
+"1895","Sainte-Anne-de-Bellevue","QC","CA",78
+"1896","Sainte-Anne-de-la-Pérade","QC","CA",19
+"1897","Sainte-Anne-des-Monts","QC","CA",19
+"1898","Sainte-Anne-des-Plaines","QC","CA",53
+"1899","Sainte-Brigitte","QC","CA",7
+"1900","Sainte-brigitte-de-laval","QC","CA",14
+"1901","Sainte-Brigitte-des-Saults","QC","CA",32
+"1902","Sainte-Catherine","QC","CA",135
+"1903","Sainte-catherine-de-hatley","QC","CA",7
+"1904","Sainte-Cécile-de-Lévrard","QC","CA",8
+"1905","Sainte-Cécile-de-Milton","QC","CA",4
+"1906","Sainte-claire","QC","CA",93
+"1907","Sainte-clotilde-de-beauce","QC","CA",32
+"1908","Sainte-Clotilde-de-Châteauguay","QC","CA",48
+"1909","Sainte-croix","QC","CA",57
+"1910","Sainte-Dorothée","QC","CA",104
+"1911","Sainte-flavie","QC","CA",13
+"1912","Sainte-Foy","QC","CA",326
+"1913","Sainte-Geneviève","QC","CA",10
+"1914","Sainte-Hélène-de-Bagot","QC","CA",104
+"1915","Sainte-henedine","QC","CA",14
+"1916","Sainte-Julie","QC","CA",475
+"1917","Sainte-Julienne","QC","CA",39
+"1918","Sainte-justine","QC","CA",27
+"1919","Sainte-luce","QC","CA",35
+"1920","Sainte-madeleine","QC","CA",21
+"1921","Sainte-Marcelline-de-Kildare","QC","CA",10
+"1922","Sainte-Marguerite-du-Lac-Masson","QC","CA",9
+"1923","Sainte-Marie","QC","CA",231
+"1924","Sainte-Marie-De-Beauce","QC","CA",27
+"1925","Sainte-Marie-Salomé","QC","CA",3
+"1926","Sainte-Marthe-sur-le-Lac","QC","CA",20
+"1927","Sainte-Martine","QC","CA",51
+"1928","Sainte-Mélanie","QC","CA",76
+"1929","Sainte-monique-lac-saint-jean","QC","CA",15
+"1930","Sainte-rose","QC","CA",55
+"1931","Sainte-Sabine","QC","CA",55
+"1932","Sainte-Sophie","QC","CA",119
+"1933","Sainte-Sophie-de-Lévrard","QC","CA",14
+"1934","Sainte-Thérèse","QC","CA",461
+"1935","Sainte Catherine de la Jacques Cartier","QC","CA",87
+"1936","Saints-anges","QC","CA",22
+"1937","Salaberry-de-Valleyfield","QC","CA",736
+"1938","Salford","ON","CA",17
+"1939","Salisbury","NB","CA",1
+"1940","Salmo","BC","CA",3
+"1941","Salmon Arm","BC","CA",764
+"1942","Salt Lake","SK","CA",5
+"1943","Salt Spring Island","BC","CA",69
+"1944","Saltcoats","SK","CA",3
+"1945","Sandford","ON","CA",11
+"1946","Sandy Bay","SK","CA",15
+"1947","Sandy Lake","ON","CA",17
+"1948","Sardis","BC","CA",5
+"1949","Sarnia","ON","CA",2203
+"1950","Saskatchewan","MB","CA",90
+"1951","Saskatchewan Beach","SK","CA",14
+"1952","Saskatoon","SK","CA",9282
+"1953","Sauble Beach","ON","CA",10
+"1954","Sault Ste. Marie","ON","CA",1765
+"1955","Saulteaux","AB","CA",8
+"1956","Savanna","AB","CA",2
+"1957","Savona","BC","CA",38
+"1958","Sayabec","QC","CA",20
+"1959","Sayward","BC","CA",31
+"1960","Scanterbury","MB","CA",15
+"1961","Scarborough","ON","CA",12233
+"1962","Sceptre","SK","CA",16
+"1963","Schefferville","QC","CA",12
+"1964","Schomberg","ON","CA",426
+"1965","Schreiber","ON","CA",17
+"1966","Schuler","AB","CA",83
+"1967","Scotia","ON","CA",5
+"1968","Scotland","ON","CA",55
+"1969","Scott","QC","CA",63
+"1970","Scoudouc","NB","CA",5
+"1971","Seaforth","ON","CA",56
+"1972","Sechelt","BC","CA",258
+"1973","Sedgewick","AB","CA",1
+"1974","Seldom","NL","CA",11
+"1975","Selkirk","MB","CA",376
+"1976","Selwyn","ON","CA",16
+"1977","Senneterre","QC","CA",2
+"1978","Senneville","QC","CA",188
+"1979","Sept-Îles","QC","CA",575
+"1980","Sexsmith","AB","CA",2
+"1981","Shannon","QC","CA",19
+"1982","Shannonville","ON","CA",6
+"1983","Shanty Bay","ON","CA",50
+"1984","Shaunavon","SK","CA",9
+"1985","Shawinigan","QC","CA",682
+"1986","Shawnigan Lake","BC","CA",61
+"1987","Shawville","QC","CA",11
+"1988","Shediac","NB","CA",303
+"1989","Shediac Cape","NB","CA",83
+"1990","Sheet Harbour","NS","CA",10
+"1991","Shelburne","NS","CA",40
+"1992","Shelburne","ON","CA",283
+"1993","Shellbrook","SK","CA",17
+"1994","Sherbrooke","NS","CA",37
+"1995","Sherbrooke","QC","CA",4178
+"1996","Sherkston","ON","CA",57
+"1997","Sherrington","QC","CA",93
+"1998","Sherwood Park","AB","CA",2394
+"1999","Shilo","MB","CA",14
+"2000","Shippagan","NB","CA",76
+"2001","Shoal Harbour","NL","CA",2
+"2002","Shoal Lake","MB","CA",28
+"2003","Short Beach","NS","CA",28
+"2004","Shubenacadie","NS","CA",17
+"2005","Shuswap","BC","CA",24
+"2006","Sicamous","BC","CA",168
+"2007","Sidney","BC","CA",460
+"2008","Sillery","QC","CA",28
+"2009","Silver Heights","AB","CA",1
+"2010","Silver Valley","AB","CA",1
+"2011","Simcoe","ON","CA",806
+"2012","Simcoe County","ON","CA",148
+"2013","Sioux Lookout","ON","CA",174
+"2014","Slave Lake","AB","CA",342
+"2015","Slemon Park","PE","CA",41
+"2016","Smith","AB","CA",15
+"2017","Smithers","BC","CA",428
+"2018","Smiths Falls","ON","CA",379
+"2019","Smithville","ON","CA",351
+"2020","Smoky Lake","AB","CA",57
+"2021","Snow Lake","MB","CA",45
+"2022","Solomon","AB","CA",20
+"2023","Somerville","NB","CA",45
+"2024","Sonora","NS","CA",1
+"2025","Sooke","BC","CA",126
+"2026","Sorel","QC","CA",6
+"2027","Sorel-Tracy","QC","CA",262
+"2028","Sorrento","BC","CA",25
+"2029","Souris","MB","CA",20
+"2030","Souris","PE","CA",23
+"2031","South Calgary","AB","CA",101
+"2032","South Huron","ON","CA",34
+"2033","South Keys","ON","CA",23
+"2034","South Mountain","ON","CA",15
+"2035","South Porcupine","ON","CA",53
+"2036","South River","ON","CA",71
+"2037","South Shore","NS","CA",67
+"2038","South Surrey","BC","CA",428
+"2039","Southend","SK","CA",18
+"2040","Southern Water","ON","CA",34
+"2041","Southport","MB","CA",2
+"2042","Spaniard's Bay","NL","CA",32
+"2043","Spaniards Bay","NL","CA",40
+"2044","Sparwood","BC","CA",184
+"2045","Spencerville","ON","CA",14
+"2046","Spirit River","AB","CA",9
+"2047","Spiritwood","SK","CA",17
+"2048","Springfield","ON","CA",3
+"2049","Springhill","NS","CA",84
+"2050","Spruce Grove","AB","CA",914
+"2051","Spruce View","AB","CA",95
+"2052","Spryfield","NS","CA",5
+"2053","Spy Hill","SK","CA",34
+"2054","Squamish","BC","CA",888
+"2055","St. Adolphe","MB","CA",3
+"2056","St. Agatha","ON","CA",13
+"2057","St. Albert","AB","CA",972
+"2058","St. André","NB","CA",23
+"2059","St. Andrews","MB","CA",13
+"2060","St. Anns","NS","CA",16
+"2061","St. Anthony","NL","CA",94
+"2062","St. Brieux","SK","CA",269
+"2063","St. Catharines","ON","CA",5162
+"2064","St. Catherines","PE","CA",52
+"2065","St. Clair Beach","ON","CA",2
+"2066","St. Clements","ON","CA",44
+"2067","St. George","NB","CA",49
+"2068","St. George","ON","CA",54
+"2069","St. Isidore","ON","CA",6
+"2070","St. Jacobs","ON","CA",193
+"2071","St. Jean Baptiste","MB","CA",51
+"2072","St. John's","NL","CA",5279
+"2073","St. Lawrence","NL","CA",199
+"2074","St. Martins","NB","CA",1
+"2075","St. Mary's","NL","CA",15
+"2076","St. Marys","ON","CA",289
+"2077","St. Paul","AB","CA",182
+"2078","St. Peter's","NS","CA",21
+"2079","St. Pierre Jolys","MB","CA",32
+"2080","St. Stephen","NB","CA",179
+"2081","St. Thomas","ON","CA",829
+"2082","St. Vital","MB","CA",3
+"2083","St. Williams","ON","CA",39
+"2084","Stafford","ON","CA",1
+"2085","Stanley Mission","SK","CA",1
+"2086","Stanstead","QC","CA",55
+"2087","Star","AB","CA",6
+"2088","Star City","SK","CA",25
+"2089","Starbuck","MB","CA",30
+"2090","Stave Falls","BC","CA",9
+"2091","Stavely","AB","CA",67
+"2092","Stayner","ON","CA",205
+"2093","Ste Agathe","MB","CA",17
+"2094","Ste Croix","NS","CA",21
+"2095","Ste. Agathe","MB","CA",12
+"2096","Ste. Rose du Lac","MB","CA",7
+"2097","Steeles","ON","CA",17
+"2098","Steinbach","MB","CA",238
+"2099","Stellarton","NS","CA",19
+"2100","Stephenville","NL","CA",246
+"2101","Stettler","AB","CA",309
+"2102","Stevensville","ON","CA",187
+"2103","Steveston","BC","CA",23
+"2104","Stewart","BC","CA",20
+"2105","Stewiacke","NS","CA",45
+"2106","Stittsville","ON","CA",122
+"2107","Stoke","QC","CA",32
+"2108","Stoneham","QC","CA",4
+"2109","Stonewall","MB","CA",87
+"2110","Stoney Creek","ON","CA",2289
+"2111","Stony Mountain","MB","CA",59
+"2112","Stony Plain","AB","CA",326
+"2113","Stornoway","SK","CA",17
+"2114","Stouffville","ON","CA",1360
+"2115","Stoughton","SK","CA",27
+"2116","Strasbourg","SK","CA",17
+"2117","Stratford","ON","CA",2704
+"2118","Stratford","PE","CA",63
+"2119","Strathcona","PE","CA",21
+"2120","Strathcona County","AB","CA",83
+"2121","Strathmore","AB","CA",337
+"2122","Strathroy","ON","CA",692
+"2123","Street","ON","CA",76
+"2124","Strongfield","SK","CA",1
+"2125","Sturgeon County","AB","CA",56
+"2126","Sturgeon Falls","ON","CA",79
+"2127","Success","SK","CA",54
+"2128","Summer Beaver","ON","CA",1
+"2129","Summerland","BC","CA",412
+"2130","Summerside","PE","CA",491
+"2131","Summerstown","ON","CA",84
+"2132","Summit","QC","CA",1
+"2133","Sun Peaks","BC","CA",218
+"2134","Sunderland","ON","CA",8
+"2135","Sundre","AB","CA",188
+"2136","Sundridge","ON","CA",89
+"2137","Sunshine Coast","BC","CA",206
+"2138","Surrey","BC","CA",15920
+"2139","Surrey Centre","BC","CA",6
+"2140","Sussex","NB","CA",108
+"2141","Sussex East","NB","CA",8
+"2142","Sutton","ON","CA",2
+"2143","Sutton","QC","CA",28
+"2144","Sutton West","ON","CA",16
+"2145","Swan Hills","AB","CA",52
+"2146","Swan River","MB","CA",75
+"2147","Swift Current","SK","CA",852
+"2148","Sydney","NS","CA",823
+"2149","Sydney Mines","NS","CA",1
+"2150","Sydney River","NS","CA",2
+"2151","Sylvan Lake","AB","CA",196
+"2152","Taber","AB","CA",372
+"2153","Tadoussac","QC","CA",1
+"2154","Talbotville Royal","ON","CA",12
+"2155","Tantallon","NS","CA",59
+"2156","Tappen","BC","CA",7
+"2157","Tara","ON","CA",23
+"2158","Tavistock","ON","CA",25
+"2159","Taylor","BC","CA",39
+"2160","Tecumseh","ON","CA",329
+"2161","Tees","AB","CA",2
+"2162","Temagami","ON","CA",18
+"2163","Témiscaming","QC","CA",1
+"2164","Temiskaming Shores","ON","CA",11
+"2165","Tennessee","QC","CA",40
+"2166","Terrace","BC","CA",798
+"2167","Terrace Bay","ON","CA",33
+"2168","Terrebonne","QC","CA",1857
+"2169","Tessier","SK","CA",33
+"2170","Thamesville","ON","CA",105
+"2171","The Beaches","ON","CA",24
+"2172","The Pas","MB","CA",241
+"2173","Thedford","ON","CA",66
+"2174","Theodore","SK","CA",4
+"2175","Thessalon","ON","CA",86
+"2176","Thetford Mines","QC","CA",397
+"2177","Thomas","QC","CA",8
+"2178","Thompson","MB","CA",253
+"2179","Thorhild","AB","CA",1
+"2180","Thornbury","ON","CA",132
+"2181","Thorncliffe","ON","CA",34
+"2182","Thorndale","ON","CA",65
+"2183","Thornhill","BC","CA",45
+"2184","Thornhill","ON","CA",2635
+"2185","Thorold","ON","CA",275
+"2186","Thorsby","AB","CA",22
+"2187","Three Hills","AB","CA",95
+"2188","Thunder Bay","ON","CA",3559
+"2189","Thurso","QC","CA",39
+"2190","Tilbury","BC","CA",4
+"2191","Tilbury","ON","CA",204
+"2192","Tilley","AB","CA",61
+"2193","Tillsonburg","ON","CA",1023
+"2194","Tilting","NL","CA",7
+"2195","Timmins","ON","CA",1135
+"2196","Tiny","SK","CA",6
+"2197","Tisdale","SK","CA",149
+"2198","Tiverton","ON","CA",165
+"2199","Tobermory","ON","CA",27
+"2200","Tofield","AB","CA",27
+"2201","Tofino","BC","CA",183
+"2202","Torbay","NL","CA",34
+"2203","Toronto","ON","CA",159971
+"2204","Toronto","PE","CA",14
+"2205","Toronto Pearson International Airport","ON","CA",146
+"2206","Tottenham","ON","CA",376
+"2207","Townsend","ON","CA",13
+"2208","Tracadie-Sheila","NB","CA",33
+"2209","Trafalgar","ON","CA",23
+"2210","Trail","BC","CA",410
+"2211","Transcona","MB","CA",31
+"2212","Traytown","NL","CA",86
+"2213","Treherne","MB","CA",60
+"2214","Trenton","ON","CA",800
+"2215","Trochu","AB","CA",99
+"2216","Trois-pistoles","QC","CA",6
+"2217","Trois-Rivières","QC","CA",2844
+"2218","Truro","NS","CA",1073
+"2219","Truro Heights","NS","CA",34
+"2220","Tsawwassen","BC","CA",884
+"2221","Tuktoyaktuk","NT","CA",7
+"2222","Tulita","NT","CA",3
+"2223","Tumbler Ridge","BC","CA",52
+"2224","Turnor Lake","SK","CA",1
+"2225","Turtleford","SK","CA",3
+"2226","Tusket","NS","CA",6
+"2227","Tweed","ON","CA",39
+"2228","Twillingate","NL","CA",46
+"2229","Two Hills","AB","CA",9
+"2230","Ucluelet","BC","CA",72
+"2231","Union","ON","CA",18
+"2232","Unionville","ON","CA",221
+"2233","Unity","SK","CA",64
+"2234","Upper","ON","CA",45
+"2235","Upper Island Cove","NL","CA",53
+"2236","Upper Tantallon","NS","CA",3
+"2237","Usherville","SK","CA",34
+"2238","Utopia","ON","CA",24
+"2239","Utterson","ON","CA",36
+"2240","Uxbridge","ON","CA",445
+"2241","Val-alain","QC","CA",18
+"2242","Val-belair","QC","CA",60
+"2243","Val-d'Amour","NB","CA",20
+"2244","Val-d'Or","QC","CA",591
+"2245","Val-david","QC","CA",37
+"2246","Val-des-Monts","QC","CA",25
+"2247","Val-Joli","QC","CA",13
+"2248","Val Caron","ON","CA",90
+"2249","Val Comeau","NB","CA",2
+"2250","Valcourt","QC","CA",224
+"2251","Valemount","BC","CA",2
+"2252","Vallee-jonction","QC","CA",38
+"2253","Valley","NS","CA",107
+"2254","Valleyview","AB","CA",133
+"2255","Valleyview","BC","CA",5
+"2256","Van Anda","BC","CA",2
+"2257","Vancouver","BC","CA",73887
+"2258","Vancouver Island","BC","CA",1712
+"2259","Vanderhoof","BC","CA",256
+"2260","Vanessa","ON","CA",39
+"2261","Vanier","ON","CA",30
+"2262","Vanier","QC","CA",37
+"2263","Vankleek Hill","ON","CA",53
+"2264","Vanscoy","SK","CA",12
+"2265","Varennes","QC","CA",560
+"2266","Vars","ON","CA",73
+"2267","Vaudreuil-Dorion","QC","CA",1514
+"2268","Vaudreuil-Soulanges","QC","CA",59
+"2269","Vaughan","ON","CA",12216
+"2270","Vauxhall","AB","CA",7
+"2271","Vavenby","BC","CA",6
+"2272","Vegreville","AB","CA",290
+"2273","Vercheres","QC","CA",37
+"2274","Verdun","QC","CA",404
+"2275","Vermilion","AB","CA",13
+"2276","Vermilion Bay","ON","CA",4
+"2277","Vernon","BC","CA",3065
+"2278","Victoria","BC","CA",14926
+"2279","Victoria","ON","CA",9
+"2280","Victoria","PE","CA",37
+"2281","Victoriaville","QC","CA",1361
+"2282","Vienna","ON","CA",2
+"2283","View Royal","BC","CA",32
+"2284","Viking","AB","CA",45
+"2285","Ville-Marie","QC","CA",86
+"2286","Villeray","QC","CA",2
+"2287","Villeroy","QC","CA",79
+"2288","Vimont","QC","CA",5
+"2289","Vineland","ON","CA",120
+"2290","Vineland Station","ON","CA",12
+"2291","Virden","MB","CA",133
+"2292","Virgil","ON","CA",49
+"2293","Vulcan","AB","CA",46
+"2294","Wabamun","AB","CA",26
+"2295","Wabasca","AB","CA",107
+"2296","Wabush","NL","CA",294
+"2297","Wadena","SK","CA",51
+"2298","Wahnapitae","ON","CA",27
+"2299","Wainwright","AB","CA",327
+"2300","Wakaw","SK","CA",7
+"2301","Wakefield","QC","CA",24
+"2302","Walkerton","ON","CA",309
+"2303","Wallace","NS","CA",15
+"2304","Wallaceburg","ON","CA",264
+"2305","Walnut","ON","CA",1
+"2306","Walpole","ON","CA",4
+"2307","Wandering River","AB","CA",32
+"2308","Warburg","AB","CA",34
+"2309","Warden","QC","CA",6
+"2310","Warfield","BC","CA",3
+"2311","Warkworth","ON","CA",23
+"2312","Warman","SK","CA",95
+"2313","Warwick","QC","CA",143
+"2314","Wasaga Beach","ON","CA",213
+"2315","Washago","ON","CA",23
+"2316","Washington","ON","CA",20
+"2317","Waskaganish","QC","CA",7
+"2318","Waskesiu Lake","SK","CA",170
+"2319","Waterdown","ON","CA",630
+"2320","Waterford","ON","CA",70
+"2321","Waterhen","MB","CA",2
+"2322","Waterloo","ON","CA",7981
+"2323","Waterloo","QC","CA",71
+"2324","Waterville","NS","CA",11
+"2325","Waterville","QC","CA",127
+"2326","Watford","ON","CA",23
+"2327","Watrous","SK","CA",117
+"2328","Watson","SK","CA",7
+"2329","Watson Lake","YT","CA",52
+"2330","Waubaushene","ON","CA",9
+"2331","Waupoos","ON","CA",70
+"2332","Wawa","ON","CA",100
+"2333","Wawanesa","MB","CA",23
+"2334","Wedgeport","NS","CA",36
+"2335","Weedon","QC","CA",26
+"2336","Welland","ON","CA",1197
+"2337","Wellington","ON","CA",94
+"2338","Wellington","PE","CA",17
+"2339","Welwyn","SK","CA",40
+"2340","Wembley","AB","CA",91
+"2341","Wendake","QC","CA",60
+"2342","West","ON","CA",20
+"2343","West Bay","ON","CA",11
+"2344","West Edmonton","AB","CA",58
+"2345","West Edmonton Mall","AB","CA",9
+"2346","West Island","QC","CA",290
+"2347","West Kelowna","BC","CA",712
+"2348","West St Paul","MB","CA",57
+"2349","West Vancouver","BC","CA",1543
+"2350","Westbank","BC","CA",378
+"2351","Westchester Station","NS","CA",14
+"2352","Western Shore","NS","CA",16
+"2353","Westlock","AB","CA",486
+"2354","Westmount","QC","CA",297
+"2355","Weston","NB","CA",70
+"2356","Westport","ON","CA",1
+"2357","Westside","BC","CA",18
+"2358","Westville","NS","CA",9
+"2359","Wetaskiwin","AB","CA",289
+"2360","Weyburn","SK","CA",570
+"2361","Wheatley","ON","CA",45
+"2362","Whistler","BC","CA",1472
+"2363","Whitbourne","NL","CA",43
+"2364","Whitby","ON","CA",2652
+"2365","Whitchurch-Stouffville","ON","CA",8
+"2366","White","ON","CA",54
+"2367","White City","SK","CA",26
+"2368","White Rock","BC","CA",930
+"2369","Whitecap","SK","CA",62
+"2370","Whitecourt","AB","CA",872
+"2371","Whitefish","ON","CA",32
+"2372","Whitehorse","YT","CA",1076
+"2373","Whitewood","SK","CA",7
+"2374","Wiarton","ON","CA",60
+"2375","Wickham","QC","CA",21
+"2376","Wilberforce","ON","CA",15
+"2377","Wilcox","SK","CA",80
+"2378","Wildcat","AB","CA",18
+"2379","Wildwood","AB","CA",35
+"2380","Wilkie","SK","CA",24
+"2381","Williams Lake","BC","CA",729
+"2382","Willingdon","AB","CA",16
+"2383","Willow Beach","ON","CA",2
+"2384","Willow Bunch","SK","CA",11
+"2385","Willowbrook","SK","CA",2
+"2386","Willowdale","ON","CA",61
+"2387","Winchester","ON","CA",177
+"2388","Windham Centre","ON","CA",1
+"2389","Windsor","NL","CA",73
+"2390","Windsor","NS","CA",200
+"2391","Windsor","ON","CA",10949
+"2392","Windsor","QC","CA",59
+"2393","Windsor Junction","NS","CA",38
+"2394","Winfield","BC","CA",123
+"2395","Wingham","ON","CA",438
+"2396","Winkler","MB","CA",188
+"2397","Winneway","QC","CA",2
+"2398","Winnipeg","MB","CA",23997
+"2399","Winnitoba","MB","CA",12
+"2400","Winona","ON","CA",97
+"2401","Wolfville","NS","CA",144
+"2402","Wood Buffalo","AB","CA",156
+"2403","Woodbridge","ON","CA",4081
+"2404","Woodlands","MB","CA",9
+"2405","Woodridge","MB","CA",56
+"2406","Woodside","NB","CA",77
+"2407","Woodstock","NB","CA",255
+"2408","Woodstock","ON","CA",3045
+"2409","Woodstock","PE","CA",37
+"2410","Woodview","ON","CA",14
+"2411","Work from Home","UNKNOWN","CA",17
+"2412","Woss","BC","CA",2
+"2413","Wyebridge","ON","CA",1
+"2414","Wynyard","SK","CA",72
+"2415","Wyoming","ON","CA",17
+"2416","Yamachiche","QC","CA",41
+"2417","Yarmouth","NS","CA",482
+"2418","Yellowhead County","AB","CA",47
+"2419","Yellowknife","NT","CA",1029
+"2420","Yonge","ON","CA",10
+"2421","York","ON","CA",638
+"2422","Yorkdale","ON","CA",94
+"2423","Yorkton","SK","CA",837
+"2424","Yorkville","ON","CA",27
+"2425","Zephyr","ON","CA",18
+"2426","Zurich","ON","CA",27
+"2427",NA,"AB","CA",1444
+"2428",NA,"BC","CA",1666
+"2429",NA,"MB","CA",410
+"2430",NA,"NB","CA",139
+"2431",NA,"NL","CA",273
+"2432",NA,"NS","CA",876
+"2433",NA,"NT","CA",27
+"2434",NA,"NU","CA",109
+"2435",NA,"ON","CA",3888
+"2436",NA,"PE","CA",29
+"2437",NA,"QC","CA",3153
+"2438",NA,"SK","CA",738
+"2439",NA,"UNKNOWN","CA",10931

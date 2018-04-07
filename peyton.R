@@ -4,7 +4,7 @@
 
 
 ##Set WD
-setwd("C:/Users/peyto/OneDrive/Documents/Datafest/df2018-master")
+setwd("C:/Users/peyto/OneDrive/Documents/Datafest/df2018")
 Packages <- c("dplyr", "ggplot2", "readr","magrittr","ggmap")
 lapply(Packages, library, character.only = TRUE)
 
@@ -15,6 +15,21 @@ datafest2018 <- read_csv(data)
 numjobID<- datafest2018 %>% group_by(jobId) %>% summarize(n())
 
 
+#subset to work on in Tableu
+subsetdf18<- datafest2018[1:10000,]
+write.csv(subsetdf18,file='subsetdf18.csv')
+
+
+##Generate Lat Logn Data
+allcity_counts <- datafest2018 %>% 
+  group_by(city) %>% select(city,stateProvince,country) 
+
+city.state.country <- allcity_counts %>% group_by(city,stateProvince,country) %>% summarise(ncity=n())
+
+
+citynames <- datafest2018[,4:6]                         
+
+write.csv(city.state.country, file='./data/citynames3.csv')
 
 
 

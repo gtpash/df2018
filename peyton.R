@@ -24,7 +24,17 @@ write.csv(subsetdf18,file='subsetdf18.csv')
 allcity_counts <- datafest2018 %>% 
   group_by(city) %>% select(city,stateProvince,country) 
 
+##Make DF with all city state country
 city.state.country <- allcity_counts %>% group_by(city,stateProvince,country) %>% summarise(ncity=n())
+
+##Make US DF
+cscUSA <- city.state.country %>% filter(country=="US")
+
+##Make Canada DF
+cscUSA <- city.state.country %>% filter(country=="US")
+
+##Make German DF
+cscUSA <- city.state.country %>% filter(country=="US")
 
 
 citynames <- datafest2018[,4:6]                         

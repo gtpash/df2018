@@ -1,6 +1,7 @@
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(ggmap)
 
 datafest<-read_csv("GitHub/df2018/data/datafest2018.csv")
 
@@ -22,3 +23,11 @@ boxplot(datafest$jobAgeDays)
 
 max(company$count) #321687
 filter(company, company$count>20000)
+
+USJobs<-filter(datafest, datafest$country=="US")
+uniqueCity<-unique(datafest$city)
+
+
+locations <- paste(USJobs[1:1000,]$city, USJobs[1:1000,]$stateProvince)
+geoLocations <- geocode(as.character(uniqueCity[1:1000]))
+

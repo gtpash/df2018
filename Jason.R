@@ -1,5 +1,5 @@
-vinitWorkingDirectory <- "~/Documents/df2018"
-setwd(vinitWorkingDirectory)
+JasonWorkingDirectory <- "/c/Users/jason/My Documents/Datafest/df2018"
+setwd(JasonWorkingDirectory)
 Packages <- c("dplyr", "ggplot2", "readr","magrittr","ggmap")
 lapply(Packages, library, character.only = TRUE)
 

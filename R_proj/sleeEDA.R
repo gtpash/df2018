@@ -26,5 +26,24 @@ filter(company, company$count>20000)
 
 USJobs<-filter(datafest, datafest$country=="US")
 uniqueCity<-unique(datafest$city)
+unique(datafest$salaryCurrency)
 
-which(is.na(datafest$jobLanguage))
+#replace NAs of salary Currency with proper currency based on salary data.
+indexNASalary<-which(is.na(datafest$salaryCurrency))
+indexNASalary
+
+for(i in datafest$country[indexNASalary]){
+  j=1
+  if(i=="US"){
+    datafest$salaryCurrency[indexNASalary[j]]="USD"
+  }
+  else if(i=="DE"){
+    datafest$salaryCurrency[indexNASalary[j]]="EUR"
+    
+  }
+  else if(i=="CA"){
+    datafest$salaryCurrency[indexNASalary[j]]="CAD"
+  }
+  j=j+1
+}
+  

@@ -1,0 +1,94 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"Alabama"	"01"	104375	9717175	1074.1	922.3
+	"Alaska"	"02"	8810	1479603	595.4	746.0
+	"Arizona"	"04"	110944	13748636	806.9	673.5
+	"Arkansas"	"05"	63373	5966101	1062.2	897.4
+	"California"	"06"	521446	78243957	666.4	620.0
+	"Colorado"	"08"	73879	10989364	672.3	668.1
+	"Connecticut"	"09"	61078	7161182	852.9	655.6
+	"Delaware"	"10"	17456	1896141	920.6	744.7
+	"District of Columbia"	"11"	9908	1351547	733.1	758.2
+	"Florida"	"12"	389050	40857353	952.2	664.7
+	"Georgia"	"13"	161370	20509769	786.8	805.3
+	"Hawaii"	"15"	21966	2853714	769.7	579.9
+	"Idaho"	"16"	26392	3335968	791.1	726.8
+	"Illinois"	"17"	213892	25640586	834.2	726.8
+	"Indiana"	"18"	126186	13245821	952.6	834.8
+	"Iowa"	"19"	59138	6256690	945.2	723.8
+	"Kansas"	"20"	52909	5814010	910.0	765.9
+	"Kentucky"	"21"	94391	8861585	1065.2	931.7
+	"Louisiana"	"22"	88022	9350626	941.3	872.8
+	"Maine"	"23"	28661	2660932	1077.1	771.1
+	"Maryland"	"24"	96071	12011430	799.8	712.0
+	"Massachusetts"	"25"	114767	13596019	844.1	677.2
+	"Michigan"	"26"	191371	19846015	964.3	785.4
+	"Minnesota"	"27"	85878	11002387	780.5	651.3
+	"Mississippi"	"28"	63524	5978116	1062.6	956.3
+	"Missouri"	"29"	119744	12169204	984.0	812.8
+	"Montana"	"30"	19847	2074593	956.7	752.5
+	"Nebraska"	"31"	32957	3800881	867.1	723.3
+	"Nevada"	"32"	46781	5823816	803.3	759.8
+	"New Hampshire"	"33"	24187	2664906	907.6	721.5
+	"New Jersey"	"34"	145426	17879890	813.3	667.4
+	"New Mexico"	"35"	36050	4161343	866.3	747.9
+	"New York"	"36"	307986	39492472	779.9	642.2
+	"North Carolina"	"37"	179598	20181974	889.9	786.1
+	"North Dakota"	"38"	12465	1514787	822.9	692.1
+	"Ohio"	"39"	237760	23219463	1024.0	830.6
+	"Oklahoma"	"40"	78698	7830975	1005.0	896.5
+	"Oregon"	"41"	71483	8118099	880.5	713.8
+	"Pennsylvania"	"42"	265638	25576131	1038.6	769.3
+	"Rhode Island"	"44"	19898	2112033	942.1	705.7
+	"South Carolina"	"45"	95328	9855953	967.2	835.1
+	"South Dakota"	"46"	15576	1723373	903.8	717.8
+	"Tennessee"	"47"	134427	13246250	1014.8	886.5
+	"Texas"	"48"	381620	55292235	690.2	737.3
+	"Utah"	"49"	35247	6041849	583.4	714.2
+	"Vermont"	"50"	11828	1250682	945.7	714.3
+	"Virginia"	"51"	132050	16779395	787.0	718.7
+	"Washington"	"53"	109364	14448290	756.9	679.5
+	"West Virginia"	"54"	45484	3672155	1238.6	943.2
+	"Wisconsin"	"55"	103079	11546599	892.7	717.3
+	"Wyoming"	"56"	9500	1172056	810.5	733.9
+"Total"			5456878	644024131	847.3	731.2
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Age Group: All"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Race: All"
+"States: All"
+"Year: 2015, 2016"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Apr 7, 2018 1:35:27 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released December 2017. Data are from the Compressed Mortality File 1999-2016 Series 20"
+"No. 2V, 2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Apr 7, 2018 1:35:27 PM"
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2016 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2016 series released by NCHS on June 26, 2017."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."

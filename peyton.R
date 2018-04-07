@@ -139,10 +139,23 @@ CAdata <- CAdata[,c(1,6)]
 
 
 
+###########################################################################################################
+#Regression on the HealthcareJobs/Capita
+#Also have Mortality Rate
+data <- './data/mortality_healthJobs.csv'
+healthstuff <- read_csv(data)
 
+colnames(healthstuff)[7] <- "AgeAdjustedRate"
 
+healthmodel <- lm(AgeAdjustedRate ~ JobsToPop, healthstuff)
 
+require(ggplot2)
 
+g <- ggplot(healthmodel,aes(x=JobsToPop,y=AgeAdjustedRate))
+
+g+geom_point()+geom_smooth(method= 'lm')
+
+cor(x=healthstuff$JobsToPop,y=healthstuff$AgeAdjustedRate)
 
 
 

@@ -52,17 +52,101 @@ write.csv(ALLLatLong,file='./data/AllLatLong')
 
 ##Bind all Lat Long Data to original dataset
 datafest2 <- datafest2018
-mergedLatLong <- merge(datafest2,ALLLatLong, by=c('city','stateProvince'))
+datafestLL <- merge(datafest2,ALLLatLong, by=c('city','stateProvince'))
+write.csv(datafestLL,file='datafestll.csv')
+
+
+datafestLL2 <- datafestLL %>% filter(is.na(Latitude)==FALSE)
+write.csv(datafestLL2,file='datafestll2.csv')
+
+
+##Count of Data per country
+countrycount <- datafest2018 %>% group_by(country) %>% summarise(CountryCount=n())
+
+##Salary Exploration
+SalaryMeanbyCategory <- datafest2018 %>% 
+  group_by(normTitleCategory) %>% 
+  summarise(meanSal=mean(estimatedSalary)) %>% 
+  arrange(desc(meanSal))
+
+##Company's Average Rating
+AverageRatingbyCompany <- datafest2018 %>% group_by(companyId) %>% 
+  summarise(meanrating=mean(avgOverallRating),Count=n()) %>% arrange(desc(meanrating),desc(Count))
+
+
+##Arrange by Salary
+datafestSALorder <- datafestLL %>% arrange(desc(estimatedSalary))
 
 
 
-#Vinit's Code
-datafest2018 %>% group_by(companyId) %>% summarize(n()) -> companies
-datafest2018 %>% filter(companyId == "company00090") %>% mean(.$estimatedSalary)
-city_counts <- datafest2018 %>% group_by(city) %>% summarize(n()) %>% arrange(desc(`n()`)) %>% slice(2:12501)
-#write_csv(city_counts,"./data/city_counts.csv")
-industries <- datafest2018 %>% group_by(industry) %>% summarize(n()) %>% arrange(desc(`n()`))
-#n <- 1
-#locs <- city_counts$city[n:(n+2)]
-#
-#geoLocations <- geocode(as.character(locs))
+##get unique regions
+UniqueRegion <- datafest2018 %>% group_by(country, stateProvince) %>% summarise(count=n()) %>% arrange(count)
+
+#### Scrape US population data, also look for Canada and Germany
+require('rvest')
+website = read_html("https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population")
+
+USdata = website %>%
+  #We get our nodes from using Selector Gadget, a browser plug in.
+  html_nodes("td") %>%
+  html_text()
+
+#Converts vector into matrix
+USdata =matrix(USdata, ncol=9, byrow=T)
+
+#Converts matrix into data frame
+USdata = as.data.frame(USdata, stringsAsFactors = F)
+USdata <- USdata[,3:5]
+#Adds name to the columns in data frame.
+colnames(USdata) = c("State","Population2017","Population2010")
+USdata <- USdata %>% arrange(State)
+USdata <- USdata[1:60,]
+
+require('stringr')
+USdata$State=str_trim(USdata$State)
+
+USStates <- data.frame(state.abb,state.name)
+colnames(USStates)=c('stateProvince','State')
+
+USStates$State <- as.character(USStates$State)
+USdata2 <- merge(USdata,USStates, by='State',all.x=T)
+
+##Add in US territories
+USdata2$StateInt <- as.character(USdata2$StateInt)
+USdata2$StateInt[c(3,10,13,19,27,40,44,46,52,56)] <- c('AS','DC','GU','UM','UM','MP','UM','PR','VI','UM')
+
+UniqueRegion <- merge(UniqueRegion,USdata2[,c(2,4)], by='stateProvince',all.x=T)
+
+
+##Now CANADA
+website = read_html("http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/demo02a-eng.htm")
+
+CAdata = website %>%
+  #We get our nodes from using Selector Gadget, a browser plug in.
+  html_nodes(".cst-tbl-data , .cst-tbl-r1") %>%
+  html_text()
+
+#Converts vector into matrix
+CAdata =matrix(CAdata, ncol=6, byrow=T)
+
+#Converts matrix into data frame
+CAdata = as.data.frame(CAdata, stringsAsFactors = F)
+CAdata <- CAdata[,c(1,6)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

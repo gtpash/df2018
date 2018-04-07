@@ -32,15 +32,27 @@ cscUSA <- city.state.country %>% filter(country=="US")
 write.csv(cscUSA, file='./data/USAcity.csv')
 
 ##Make Canada DF
-cscUSA <- city.state.country %>% filter(country=="US")
+cscCA <- city.state.country %>% filter(country=="CA")
+write.csv(cscCA, file='./data/CAcity.csv')
 
 ##Make German DF
-cscUSA <- city.state.country %>% filter(country=="US")
+cscDE <- city.state.country %>% filter(country=="DE")
+write.csv(cscDE, file='./data/DEcity.csv')
 
 
-citynames <- datafest2018[,4:6]                         
+##Combine LatLong Data
+USLL <- read_csv('./data/USALatLong.csv')
+CALL <- read_csv('./data/CALatLong.csv')
+DELL <- read_csv('./data/DELatLong.csv')
 
-write.csv(city.state.country, file='./data/citynames3.csv')
+ALLLatLong <- rbind(USLL,CALL,DELL)
+colnames(ALLLatLong) <- c('city','Country','stateProvince','Latitude','Longitude')
+
+write.csv(ALLLatLong,file='./data/AllLatLong')
+
+##Bind all Lat Long Data to original dataset
+datafest2 <- datafest2018
+mergedLatLong <- merge(datafest2,ALLLatLong, by=c('city','stateProvince'))
 
 
 

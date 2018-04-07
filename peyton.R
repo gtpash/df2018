@@ -8,10 +8,11 @@ setwd("C:/Users/peyto/OneDrive/Documents/Datafest/df2018-master")
 Packages <- c("dplyr", "ggplot2", "readr","magrittr","ggmap")
 lapply(Packages, library, character.only = TRUE)
 
+##Read in data
 data <- "./data/datafest2018.csv"
 datafest2018 <- read_csv(data)
 
-
+numjobID<- datafest2018 %>% group_by(jobId) %>% summarize(n())
 
 
 

@@ -52,17 +52,31 @@ write.csv(ALLLatLong,file='./data/AllLatLong')
 
 ##Bind all Lat Long Data to original dataset
 datafest2 <- datafest2018
-mergedLatLong <- merge(datafest2,ALLLatLong, by=c('city','stateProvince'))
+datafestLL <- merge(datafest2,ALLLatLong, by=c('city','stateProvince'))
+write.csv(datafestLL,file='datafestll.csv')
+
+
+datafestLL2 <- datafestLL %>% filter(is.na(Latitude)==FALSE)
+write.csv(datafestLL2,file='datafestll2.csv')
+
+
+##Count of Data per country
+countrycount <- datafest2018 %>% group_by(country) %>% summarise(CountryCount=n())
+
+##Salary Exploration
+SalaryMeanbyCategory <- datafest2018 %>% 
+  group_by(normTitleCategory) %>% 
+  summarise(meanSal=mean(estimatedSalary)) %>% 
+  arrange(desc(meanSal))
+
+##Company's Average Rating
+AverageRatingbyCompany <- datafest2018 %>% group_by(companyId) %>% 
+  summarise(meanrating=mean(avgOverallRating),Count=n()) %>% arrange(desc(meanrating),desc(Count))
+
+
+##Arrange by Salary
+
+datafestSALorder <- datafestLL %>% arrange(desc(estimatedSalary))
 
 
 
-#Vinit's Code
-datafest2018 %>% group_by(companyId) %>% summarize(n()) -> companies
-datafest2018 %>% filter(companyId == "company00090") %>% mean(.$estimatedSalary)
-city_counts <- datafest2018 %>% group_by(city) %>% summarize(n()) %>% arrange(desc(`n()`)) %>% slice(2:12501)
-#write_csv(city_counts,"./data/city_counts.csv")
-industries <- datafest2018 %>% group_by(industry) %>% summarize(n()) %>% arrange(desc(`n()`))
-#n <- 1
-#locs <- city_counts$city[n:(n+2)]
-#
-#geoLocations <- geocode(as.character(locs))

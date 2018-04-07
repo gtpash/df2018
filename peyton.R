@@ -102,6 +102,7 @@ colnames(USdata) = c("State","Population2017","Population2010")
 USdata <- USdata %>% arrange(State)
 USdata <- USdata[1:60,]
 
+#trim data
 require('stringr')
 USdata$State=str_trim(USdata$State)
 
@@ -156,6 +157,19 @@ g <- ggplot(healthmodel,aes(x=JobsToPop,y=AgeAdjustedRate))
 g+geom_point()+geom_smooth(method= 'lm')
 
 cor(x=healthstuff$JobsToPop,y=healthstuff$AgeAdjustedRate)
+
+
+###################################################################################################################
+
+# zero-fill click data
+samp <- sample_n(raw,1000)
+datafestfilled <- datafest2 %>% group_by(jobId) %>% filter(max(jobAgeDays) > 0) %>% summarize(min(date),max(jobAgeDays))
+hist(datafestfilled$postlength)
+
+
+
+
+
 
 
 

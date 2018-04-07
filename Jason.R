@@ -40,6 +40,14 @@ datafest2018$salaryCurrency <- ifelse(!is.na(datafest2018$salaryCurrency),
                                                 ifelse(datafest2018$country=="CA","CAD","miss"))))
 
 
+# check variation of salaries for each jobId
+#salarybyID <- datafest2018 %>% group_by(jobId) %>% summarise(sd(estimatedSalary))
+sampsalarybyID <- ddply(datasamp, c("jobId"), summarise,sd=sd(estimatedSalary))
+salarybyID <- ddply(datafest2018, c("jobId"), summarise,sd=sd(estimatedSalary))
+
+
+m<-matrix(c(seq(from=-98,to=100,by=2)),nrow=10,ncol=10)
+apply(m,2,function(x) sum(x)) 
 
 
 

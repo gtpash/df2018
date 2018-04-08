@@ -45,3 +45,11 @@ for (i in sectors){
   print(mean((clean %>% filter(sector == i))$sum_localclicks))
   print(sd((clean %>% filter(sector == i))$sum_localclicks))
 }
+
+mean((clean %>% filter(avgOverallRating > 0))$avgOverallRating)
+sd((clean %>% filter(avgOverallRating > 0))$avgOverallRating)
+for (i in sectors){
+  print(i)
+  print(mean((clea %>% filter(sector == i, avgOverallRating>0))$avgOverallRating))
+  print(sd((clean %>%filter(sector == i, avgOverallRating>0))$avgOverallRating))
+}

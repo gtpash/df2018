@@ -18,3 +18,30 @@ industries <- datafest2018 %>% group_by(industry) %>% summarize(n()) %>% arrange
 all_cities <- datafest2018 %>% group_by(city) %>% select(city, stateProvince, country) %>% summarize(n())
 sector_dict <- read_csv("./data/sectors.csv")
 datafest2018 <- merge(datafest2018,sector_dict,by.x = "normTitleCategory",by.y = "industry_name", all.x = TRUE)
+
+#run CleanR.R
+
+mean(clean$days_active)
+sd(clean$days_active)
+sectors <- unique(sector_dict$sector)
+for (i in sectors){
+  print(i)
+  print(mean((clean %>% filter(sector == i))$days_active))
+  print(sd((clean %>% filter(sector == i))$days_active))
+}
+
+mean(clean$sum_clicks)
+sd(clean$sum_clicks)
+for (i in sectors){
+  print(i)
+  print(mean((clean %>% filter(sector == i))$sum_clicks))
+  print(sd((clean %>% filter(sector == i))$sum_clicks))
+}
+
+mean(clean$sum_localclicks)
+sd(clean$sum_localclicks)
+for (i in sectors){
+  print(i)
+  print(mean((clean %>% filter(sector == i))$sum_localclicks))
+  print(sd((clean %>% filter(sector == i))$sum_localclicks))
+}

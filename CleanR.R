@@ -6,16 +6,6 @@ lapply(packs,library,character.only = TRUE)
 
 raw <- readr::read_csv("./data/datafest2018.csv")
 
-company <- summarise(group_by(raw,companyId), count = n())
-
-# save city locations in csv
-city_counts <- raw %>% group_by(city) %>% summarize(n()) %>% arrange(desc(`n()`)) %>% slice(2:12501)
-
-# zero-fill click data
-samp <- sample_n(raw,1000)
-daterange_jobId <- raw %>% group_by(jobId) %>% filter(max(jobAgeDays) > 0) %>% summarize(min(date),max(jobAgeDays))
-hist(daterange_jobId$postlength)
-
 # zero-fill a time series for specific jobId
 zero_fill <- function(job_id, raw){
   
@@ -48,10 +38,9 @@ days <- merged %>% group_by(jobId) %>% mutate(days_active = as.double(difftime(m
 
 clicksumdf <- merged %>% group_by(jobId) %>% summarise(sum_clicks = sum(clicks),sum_localclicks = sum(localClicks))
 
-
 summary_merge <- merge(temp,clicksumdf, by = "jobId")
 summary_merge <- merge(summary_merge,days, by = "jobId")
 
-clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date))
+clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date)) %>% distinct(jobId)
 
-rm(raw,clicksumdf,merged,summary_merge,temp)
+rm(clicksumdf,merged,summary_merge,temp,days,days,)

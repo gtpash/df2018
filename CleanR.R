@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-
 vinitWorkingDirectory <- "~/Documents/df2018"
 setwd(vinitWorkingDirectory)
 
@@ -149,7 +147,6 @@ clicksumdf <- merged %>% group_by(jobId) %>% summarise(sum_clicks = sum(clicks),
 summary_merge <- merge(temp,clicksumdf, by = "jobId")
 summary_merge <- merge(summary_merge,days, by = "jobId")
 
-clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date)) %>% distinct(jobId, .keepall = TRUE)
+clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date)) %>% distinct(jobId, .keep_all = TRUE)
 
 rm(clicksumdf,merged,summary_merge,temp,days,days)
->>>>>>> Stashed changes

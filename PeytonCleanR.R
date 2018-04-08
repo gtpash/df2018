@@ -43,4 +43,38 @@ summary_merge <- merge(summary_merge,days, by = "jobId")
 
 clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date)) %>% distinct(jobId)
 
-rm(clicksumdf,merged,summary_merge,temp,days,days,)
+rm(clicksumdf,merged,summary_merge,temp,days,days)
+
+
+
+
+
+
+
+######################################################################################################
+##Write Clean
+
+write.csv(clean,file='cleandata.csv')
+
+clean$clicksperday <- clean$sum_clicks/clean$days_active
+clean$localclicksperday <- clean$sum_localclicks/clean$days_active
+
+write.csv(clean,file='cleanerdata.csv')
+
+pop <- read_csv("./data/USPopulation.csv")
+pop2 <- pop[,c(9,10,19)]
+pop2$POPESTIMATE2016 <- as.numeric(pop2$POPESTIMATE2016)
+
+USStates <- data.frame(state.abb,state.name)
+colnames(USStates)=c('stateProvince','State')
+
+pop3 <- merge(pop2,USStates,by.x='STNAME',by.y='State', all.x=T)
+
+merged2 <- merge(clean, pop3, by.x=c('city','stateProvince'), by.y=c('NAME','stateProvince'),all.x=T)
+
+
+
+
+
+
+

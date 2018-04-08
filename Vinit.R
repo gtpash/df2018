@@ -16,3 +16,5 @@ industries <- datafest2018 %>% group_by(industry) %>% summarize(n()) %>% arrange
 #
 #geoLocations <- geocode(as.character(locs))
 all_cities <- datafest2018 %>% group_by(city) %>% select(city, stateProvince, country) %>% summarize(n())
+sector_dict <- read_csv("./data/sectors.csv")
+datafest2018 <- merge(datafest2018,sector_dict,by.x = "normTitleCategory",by.y = "industry_name", all.x = TRUE)

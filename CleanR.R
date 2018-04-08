@@ -1,3 +1,4 @@
+
 vinitWorkingDirectory <- "~/Documents/df2018"
 setwd(vinitWorkingDirectory)
 
@@ -55,4 +56,3 @@ summary_merge <- merge(summary_merge,days, by = "jobId")
 clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date)) %>% distinct(jobId, .keep_all = TRUE)
 
 #rm(raw,clicksumdf,merged,summary_merge,temp)
-

@@ -48,7 +48,7 @@ DELL <- read_csv('./data/DELatLong.csv')
 ALLLatLong <- rbind(USLL,CALL,DELL)
 colnames(ALLLatLong) <- c('city','Country','stateProvince','Latitude','Longitude')
 
-write.csv(ALLLatLong,file='./data/AllLatLong')
+write.csv(ALLLatLong,file='./data/AllLatLong.csv')
 
 ##Bind all Lat Long Data to original dataset
 datafest2 <- datafest2018
@@ -82,6 +82,9 @@ datafestSALorder <- datafestLL %>% arrange(desc(estimatedSalary))
 ##get unique regions
 UniqueRegion <- datafest2018 %>% group_by(country, stateProvince) %>% summarise(count=n()) %>% arrange(count)
 
+
+
+############################################################################################
 #### Scrape US population data, also look for Canada and Germany
 require('rvest')
 website = read_html("https://simple.wikipedia.org/wiki/List_of_U.S._states_by_population")
@@ -168,8 +171,9 @@ hist(datafestfilled$postlength)
 
 
 
-
-
+##ADD IN SECTOR
+sector_dict <- read_csv("./data/sectors.csv")
+mergedsector <- merge(datafest2,sector_dict,by.x = "normTitleCategory",by.y = "industry_name", all.x = TRUE)
 
 
 

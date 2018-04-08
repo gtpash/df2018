@@ -17,7 +17,7 @@ daterange_jobId <- raw %>% group_by(jobId) %>% filter(max(jobAgeDays) > 0) %>% s
 hist(daterange_jobId$postlength)
 
 # zero-fill a time series for specific jobId
-zerofillyboi <- function(job_id, raw){
+zero_fill <- function(job_id, raw){
   
   incomplete <- raw %>% filter(jobId == job_id) %>% arrange(date)
   
@@ -33,15 +33,25 @@ zerofillyboi <- function(job_id, raw){
   invariant <- zerofill %>% select(companyId:educationRequirement) %>% colnames()
   zerofill[invariant] <- zerofill %>% slice(1) %>% select(invariant) 
   
-  zerofillyboi <- zerofill
+  zero_fill <- zerofill
   
 }
 
-# timing test
-testjobs <- sample_n(raw,10)
-time1<-proc.time()
-timeseriesjobs <- NULL
-for(i in 1:length(testjobs)){
-  timeseriesjobs <- rbind(timeseriesjobs,zerofillyboi(testjobs$jobId[i],raw))
-}
-print(paste0(round(((proc.time() - time1)[3])/60,digits = 3)," minutes from start"))
+# link to sectors file and add sectors column to raw df
+sector_dict <- read_csv("./data/sectors.csv")
+merged <- merge(raw,sector_dict,by.x = "normTitleCategory",by.y = "industry_name", all.x = TRUE)
+
+# make merged summary data frame
+temp <- merged %>% distinct(jobId, .keep_all = TRUE)
+
+days <- merged %>% group_by(jobId) %>% mutate(days_active = as.double(difftime(max(date),min(date),units="days"))+1) %>% select(jobId,days_active)
+
+clicksumdf <- merged %>% group_by(jobId) %>% summarise(sum_clicks = sum(clicks),sum_localclicks = sum(localClicks))
+   
+
+summary_merge <- merge(temp,clicksumdf, by = "jobId")
+summary_merge <- merge(summary_merge,days, by = "jobId")
+
+clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date))
+
+rm(raw,clicksumdf,merged,summary_merge,temp)

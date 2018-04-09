@@ -56,3 +56,45 @@ summary_merge <- merge(summary_merge,days, by = "jobId")
 clean <- summary_merge %>% select(-c(clicks,jobAgeDays,localClicks,date)) %>% distinct(jobId, .keep_all = TRUE)
 
 #rm(raw,clicksumdf,merged,summary_merge,temp)
+
+uspop <- read_csv("./data/USPopulation.csv")
+uspop <- uspop %>% select(c("NAME","STNAME","POPESTIMATE2016"))
+library(gsubfn)
+newpop <- gsubfn(paste(names(uspop),collapse='|'), uspop,uspop$NAME)
+newpop <- tolower(newpop)
+uspop <- cbind(uspop[,-1],newpop)
+
+USStates <- data.frame(state.abb,state.name)
+colnames(USStates)=c('stateProvince','State')
+USStates$State <- as.character(USStates$State)
+
+cleanUS <- clean %>% filter(country == "US")
+cleanUS$city <- tolower(cleanUS$city)
+
+merged_uspop <- merge(uspop,USStates,by.x = "STNAME",by.y = "State")
+
+colnames(merged_uspop)[3] <- "city"
+
+
+merged_clean_samp <- merge(clean_samp,merged_uspop,by="city",all.x=T)
+
+bysector <- ddply(clean, c("sector","isrural"), summarise,
+                  mean_clicks_total = mean(totalclicks),
+                  sd_clicks_total = sd(totalclicks),
+                  mean_clicks_local = mean(localclicks),
+                  sd_clicks_local = sd(localclicks)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
